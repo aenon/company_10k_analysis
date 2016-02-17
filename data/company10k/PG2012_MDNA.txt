@@ -1,0 +1,1587 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Management's Discussion and Analysis
+Forward-Looking Statements
+Certain statements in this report, other than purely historical information, including estimates, projections, statements relating to our business plans, objectives, and expected operating results, and the assumptions upon which those statements are based, are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including, without limitation, in the following sections: “Management's Discussion and Analysis” and “Risk Factors.” These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result” and similar expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially from the forward-looking statements. A detailed discussion of risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included in the section titled "Economic Conditions, Challenges and Risks" and the section titled “Risk Factors” (Item 1A of this Form 10-K). Forward-looking statements are made as of the date of this report and we undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events or otherwise.
+
+The following Management's Discussion and Analysis (MD&A) is intended to provide the reader with an understanding of P&G's financial condition, results of operations and cash flows by focusing on changes in certain key measures from year to year. MD&A is provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and accompanying notes. MD&A is organized in the following sections:
+•
+Overview
+•
+Summary of 2012 Results
+•
+Economic Conditions, Challenges and Risks
+•
+Results of Operations
+•
+Segment Results
+•
+Cash Flow, Financial Condition and Liquidity
+•
+Significant Accounting Policies and Estimates
+•
+Other Information
+Throughout MD&A, we refer to measures used by management to evaluate performance, including unit volume growth, net sales and net earnings. We also refer to a number
+
+of financial measures that are not defined under accounting principles generally accepted in the United States of America (U.S. GAAP), including organic sales growth, core earnings per share (Core EPS), free cash flow and free cash flow productivity. Organic sales growth is net sales growth excluding the impacts of foreign exchange, acquisitions and divestitures. Core EPS is diluted net earnings per share from continuing operations excluding certain specified charges. Free cash flow is operating cash flow less capital spending. Free cash flow productivity is the ratio of free cash flow to net earnings. We believe these measures provide investors with important information that is useful in understanding our business results and trends. The explanation at the end of MD&A provides more details on the use and the derivation of these measures.
+Management also uses certain market share and market consumption estimates to evaluate performance relative to competition despite some limitations on the availability and comparability of share and consumption information. References to market share and market consumption in MD&A are based on a combination of vendor-reported consumption and market size data, as well as internal estimates. All market share references represent the percentage of sales in dollar terms on a constant currency basis of our products, relative to all product sales in the category and are measured on an annual basis versus the prior 12 month period. References to competitive activity includes promotional and product initiatives from our competitors.
+
+OVERVIEW
+P&G is a global leader in retail goods focused on providing branded consumer packaged goods of superior quality and value to our consumers around the world. Our products are sold in more than 180 countries primarily through mass merchandisers, grocery stores, membership club stores, drug stores, department stores, salons and in high-frequency stores. We continue to expand our presence in other channels, including department stores, perfumeries, pharmacies, salons and e-commerce. We have on-the-ground operations in approximately 75 countries.
+
+Our market environment is highly competitive with global, regional and local competitors. In many of the markets and industry segments in which we sell our products, we compete against other branded products as well as retailers' private-label brands. Additionally, many of the product segments in which we compete are differentiated by price (referred to as super-premium, premium, mid-tier and value-tier products). We are well positioned in the industry segments and markets in which we operate - often holding a leadership or significant market share position.
+
+
+
+
+13
+
+ORGANIZATIONAL STRUCTURE
+Our organizational structure is comprised of Global Business Units (GBUs), Global Operations, Global Business Services (GBS) and Corporate Functions (CF).
+Global Business Units
+Under U.S. GAAP, the business units comprising the GBUs are aggregated into five reportable segments: Beauty; Grooming; Health Care; Fabric Care and Home Care; and Baby Care and Family Care. The GBUs are responsible for developing overall brand strategy, new product upgrades and innovations and marketing plans. The following provides additional detail on our reportable segments, businesses and the key product and brand composition within each.
+Reportable Segment
+% of
+Net Sales*
+% of Net
+Earnings*
+Categories
+Billion Dollar Brands
+Beauty
+24
+%
+22
+%
+Antiperspirant and Deodorant, Cosmetics, Hair Care, Hair Color, Personal Cleansing, Prestige Products, Salon Professional, Skin Care
+Head & Shoulders, Olay, Pantene, SK-II, Wella
+Grooming
+10
+%
+16
+%
+Blades and Razors, Electronic Hair Removal Devices, Hair Care Appliances, Pre and Post Shave Products
+Braun, Fusion, Gillette, Mach3
+Health Care
+15
+%
+17
+%
+Feminine Care, Gastrointestinal, Incontinence, Rapid Diagnostics, Respiratory, Toothbrush, Toothpaste, Other Oral Care, Other Personal Health Care, Vitamins/Minerals/Supplements
+Always, Crest, Oral-B, Vicks
+Fabric Care and Home Care
+32
+%
+26
+%
+Bleach and Laundry Additives, Air Care, Batteries, Dish Care, Fabric Enhancers, Laundry Detergents, Pet Care, Professional, Surface Care
+Ace, Ariel, Dawn, Downy, Duracell, Febreze, Gain, Iams, Tide
+Baby Care and Family Care
+19
+%
+19
+%
+Baby Wipes, Diapers and Pants, Paper Towels, Tissues, Toilet Paper
+Bounty, Charmin, Pampers
+* Percent of net sales and net earnings from continuing operations for the year ended June 30, 2012 (excluding results held in Corporate).
+
+Recent Developments: In May 2012, we completed the divestiture of our snacks business to The Kellogg Company. In accordance with the applicable accounting guidance for the disposal of long-lived assets, the results of our snacks business are presented as discontinued operations and, as such, have been excluded from continuing operations and from segment results for all periods presented. As a result of this change, the pet care business is now included in the Fabric Care and Home Care segment.
+Effective during the quarter ending December 31, 2011, we implemented a number of changes to our organization structure within the Beauty and Grooming Global Business Unit (GBU), which resulted in changes to the components of the Beauty reportable segment and the Grooming reportable segment. We now manage these businesses based on the nature of the product rather than the consumer of the product. As a result, female blades and razors transitioned from Beauty to Grooming, while male personal care products, such as Old Spice and Gillette, moved from Grooming to Beauty. The GBU and segment discussions in MD&A and the accompanying Consolidated Financial Statements have been retrospectively revised to reflect the new organizational structure.
+
+Beauty: We are a global market leader in the beauty category. Most of the beauty markets in which we compete are highly fragmented with a large number of global and
+
+local competitors. We compete in beauty, hair care and prestige. In beauty care, we offer a wide variety of products, ranging from deodorants to cosmetics to skin care, such as our Olay brand, which is the top facial skin care brand in the world with approximately 10% of the global market share. In hair care, we compete in both the retail and salon professional channels. We are the global market leader in the retail hair care market with over 20% of the global market share behind our Pantene and Head & Shoulders brands. In the prestige channel, we compete primarily with our prestige fragrances and the SK-II brand. We are one of the global market leaders in prestige fragrances, primarily behind our Dolce & Gabbana, Gucci and Hugo Boss fragrance brands.
+
+Grooming: We are the global market leader in the blades and razors market and in nearly all of the geographies in which we compete. Our global blades and razors market share is approximately 70%, primarily behind the Gillette franchise including Fusion and Mach3. Our electronic hair removal devices, such as electric razors and epilators, are sold under the Braun brand in a number of markets around the world where we compete against both global and regional competitors. We hold approximately 30% of the male shavers market and over 40% of the female epilators market.
+
+
+
+
+
+ 14
+
+Health Care: We compete in oral care, feminine care and personal health. In oral care, there are several global competitors in the market, and we have the number two market share position with over 20% of the global market. We are the global market leader in the feminine care category with over 30% of the global market share. In personal health, we are the global market leader in nonprescription heartburn medications behind our Prilosec OTC brand and in respiratory treatments behind our Vicks brand. Certain of our sales outside the U.S in personal health are generated through the PGT Healthcare partnership.
+
+Fabric Care and Home Care: This segment is comprised of a variety of fabric care products, including laundry detergents, additives and fabric enhancers; home care products, including dishwashing liquids and detergents, surface cleaners and air fresheners; batteries; and pet care. In fabric care, we generally have the number one or number two share position in the markets in which we compete and are the global market leader, with over 25% of the global market share, primarily behind our Tide, Ariel and Downy brands. Our global home care market share is over 15% across the categories in which we compete. In batteries, we have over 25% of the global battery market share, behind our Duracell brand. In pet care, we compete in several markets in the premium pet care segment, with the Iams and Eukanuba brands. The vast majority of our pet care business is in North America, where we have approximately a 10% share of the market.
+
+Baby Care and Family Care: In baby care, we compete mainly in diapers and baby wipes, with approximately 35% of the global market share. We are the number one or number two baby care competitor in most of the key markets in which we compete, primarily behind Pampers, the Company's largest brand, with annual net sales of approximately $10 billion. Our family care business is predominantly a North American business comprised largely of the Bounty paper towel and Charmin toilet paper brands. U.S. market shares are over 40% for Bounty and over 25% for Charmin.
+Global Operations
+Global Operations is comprised of our Market Development Organization (MDO), which is responsible for developing go-to-market plans at the local level. The MDO includes dedicated retail customer, trade channel and country-specific teams. It is organized along five geographic units: North America, Western Europe, Central & Eastern Europe/Middle East/Africa (CEEMEA), Latin America and Asia, which is comprised of Japan, Greater China and ASEAN/Australia/India/Korea (AAIK). Throughout MD&A, we reference business results in developing markets, which we define as the aggregate of CEEMEA, Latin America, AAIK and Greater China, and developed markets, which are comprised of North America, Western Europe and Japan.
+
+Global Business Services
+GBS provides technology, processes and standard data tools to enable the GBUs and the MDO to better understand the business and better serve consumers and customers. The GBS organization is responsible for providing world-class solutions at a low cost and with minimal capital investment.
+Corporate Functions
+CF provides Company-level strategy and portfolio analysis, corporate accounting, treasury, external relations, governance, human resources and legal, as well as other centralized functional support.
+STRATEGIC FOCUS
+We are focused on strategies that we believe are right for the long-term health of the Company with the objective of delivering total shareholder return in the top one-third of our peer group. The Company's long-term financial targets are:
+•
+Grow organic sales 1% to 2% faster than the market grows in the categories and geographies in which we compete,
+•
+Deliver Core EPS growth of high single digits to low double digits, and
+•
+Generate free cash flow productivity of 90% or greater.
+In order to achieve these targets, we are prioritizing the strategies and resources that will make P&G more focused and fit to win over the near- and long-term.
+Strengthening our Core Business
+We are prioritizing resources on our biggest, most profitable businesses and on the innovations and developing markets that offer the greatest opportunity for growth.
+•
+Top 40 Businesses: We define our core business as the top 40 country/category combinations, 20 in Household Care and 20 in Beauty & Grooming, which generate the highest level of annual sales and profit.
+•
+Top 20 Innovations: Our 20 most important innovations offer significantly higher growth potential than the balance of the innovation portfolio. Therefore, the growth of the Company depends substantially on the success of our biggest innovations.
+•
+Top 10 Developing Markets: Maintaining the strong growth momentum we have established in developing markets is critical to delivering our near- and long-term growth objectives. We are focusing resources first on the markets that offer the greatest growth opportunity. We will assess the potential for further portfolio expansions beyond the top 10 developing markets based on the top- and bottom-line growth progress of the core business.
+
+
+15
+
+Improving Productivity and Creating a Cost Savings Culture
+We have taken significant steps to accelerate cost savings and create a more cost-focused culture within the Company, including a five-year, $10 billion cost savings initiative, which was announced in February 2012. The cost savings program is based on:
+•
+Reduction in overhead spending, with a target of approximately 5,700 non-manufacturing overhead positions by the end of fiscal year 2013.
+•
+Annual savings planned in cost of goods across raw materials, manufacturing and transportation and warehousing expenses.
+•
+Generating efficiencies to enable us to grow marketing costs at a slightly slower rate than sales growth while still increasing consumer reach and effectiveness, saving approximately $1 billion over the five year period.
+
+
+Strengthening our Upstream Innovation Program and Pipeline
+Innovation has always been - and continues to be - P&G's lifeblood. To consistently win with consumers around the world across price tiers and preferences, and to consistently win versus our best competitors, each P&G product category must have a full portfolio of innovation. The innovation portfolios must include a mix of commercial programs, incremental product improvements and discontinuous innovations. We have made the creation of more discontinuous innovation a top priority, dedicating R&D resources and funding to develop new innovations aimed at changing the game in existing product categories and creating new ones.
+
+
+
+
+SUMMARY OF 2012 RESULTS
+Amounts in millions, except per share amounts
+2012
+
+Change vs. Prior Year
+
+2011
+
+Change vs. Prior Year
+
+2010
+Net Sales
+$
+83,680
+
+
+3%
+
+$
+81,104
+
+
+5%
+
+$
+77,567
+
+Operating Income
+13,292
+
+
+(14)%
+
+15,495
+
+
+(2)%
+
+15,732
+
+Net Earnings from Continuing Operations
+9,317
+
+
+(20)%
+
+11,698
+
+
+8%
+
+10,851
+
+Net Earnings from Discontinued Operations
+1,587
+
+
+593%
+
+229
+
+
+(89)%
+
+1,995
+
+Net Earnings attributable to Procter & Gamble
+10,756
+
+
+(9)%
+
+11,797
+
+
+(7)%
+
+12,736
+
+Diluted Net Earnings per Common Share
+3.66
+
+
+(7)%
+
+3.93
+
+
+(4)%
+
+4.11
+
+Diluted Net Earnings per Share from Continuing Operations
+3.12
+
+
+(19)%
+
+3.85
+
+
+11%
+
+3.47
+
+Core Earnings per Common Share
+3.85
+
+
+(1)%
+
+3.87
+
+
+7%
+
+3.61
+
+
+•
+Net sales increased 3% to $83.7 billion.
+◦
+Organic sales increased 3%.
+◦
+Unit volume was consistent with the prior year period as mid-single digit growth in developing regions was offset by a low single-digit decline in developed regions.
+•
+Net earnings attributable to Procter & Gamble were $10.8 billion, a decrease of $1.0 billion or 9% versus the prior year period.
+◦
+The decrease in net earnings attributable to Procter & Gamble was due to impairment charges, incremental restructuring charges and gross margin contraction, partially offset by net sales growth and the gain on the sale of the snacks business. The impairment charges included $1.6 billion of before-tax non-cash goodwill and intangible asset impairment charges associated with the Appliances and Salon Professional businesses. The incremental restructuring charges totaled $721 million before tax, resulting from the Company's productivity and cost savings plan announced during the year. A 160-basis point decline in gross
+
+margin was driven primarily by higher commodity costs and negative mix, partially offset by price increases and manufacturing cost savings.
+◦
+Net earnings from discontinued operations increased $1.4 billion due to the gain on the sale of the snacks business.
+•
+Diluted net earnings per share from continuing operations decreased 19% to $3.12.
+◦
+Diluted net earnings per share decreased 7% to $3.66, including earnings from discontinued operations of $0.54 per share.
+◦
+Core EPS decreased 1% to $3.85.
+•
+Cash flow from operating activities was $13.3 billion.
+◦
+Free cash flow was $9.3 billion.
+◦
+Free cash flow productivity was 85%.
+ECONOMIC CONDITIONS, CHALLENGES AND RISKS
+We discuss expectations regarding future performance, events and outcomes, such as our business outlook and objectives, in annual and quarterly reports, press releases
+
+
+ 16
+
+and other written and oral communications. All such statements, except for historical and present factual information, are "forward-looking statements" and are based on financial data and our business plans available only as of the time the statements are made, which may become out-of-date or incomplete. We assume no obligation to update any forward-looking statements as a result of new information, future events or other factors. Forward-looking statements are inherently uncertain and investors must recognize that events could be significantly different from our expectations. For more information on risks that could impact our results, refer to Item 1A Risk Factors in this 10-K.
+Ability to Achieve Business Plans. We are a consumer products company and rely on continued demand for our brands and products. To achieve business goals, we must develop and sell products that appeal to consumers and retail trade customers. Our continued success is dependent on leading-edge innovation with respect to both products and operations, on the continued positive reputations of our brands and our ability to successfully maintain trademark protection. This means we must be able to obtain patents and trademarks, and respond to technological advances and patents granted to competition. Our success is also dependent on effective sales, advertising and marketing programs. Our ability to innovate and execute in these areas will determine the extent to which we are able to grow existing sales and volume profitably, especially with respect to the product categories and geographic markets (including developing markets) in which we have chosen to focus. There are high levels of competitive activity in the environments in which we operate. To address these challenges, we must respond to competitive factors, including pricing, promotional incentives, trade terms and product initiatives. We must manage each of these factors, as well as maintain mutually beneficial relationships with our key customers, in order to effectively compete and achieve our business plans.
+As a company that manages a portfolio of consumer brands, our ongoing business model involves a certain level of ongoing acquisition, divestiture and joint venture activities. We must be able to successfully manage the impacts of these activities, while at the same time delivering against base business objectives.
+Daily conduct of our business also depends on our ability to maintain key information technology systems, including systems operated by third-party suppliers, and to maintain security over our data.
+Cost Pressures. Our costs are subject to fluctuations, particularly due to changes in commodity prices, raw materials, labor costs, foreign exchange and interest rates. Therefore, our success is dependent, in part, on our continued ability to manage these fluctuations through pricing actions, cost savings projects, sourcing decisions and certain hedging transactions, as well as consistent productivity improvements. We also must manage our debt and currency exposure, especially in certain countries with
+
+currency exchange controls, such as Venezuela, China, and India. We need to maintain key manufacturing and supply arrangements, including sole supplier and sole manufacturing plant arrangements, and successfully manage any disruptions at Company manufacturing sites. We must implement, achieve and sustain cost improvement plans, including our outsourcing projects and those related to general overhead and workforce optimization. Successfully managing these changes, including identifying, developing and retaining key employees, is critical to our success.
+Global Economic Conditions. Demand for our products has a correlation to global macroeconomic factors. The current macroeconomic factors remain dynamic. Economic changes, terrorist activity, political unrest and natural disasters may result in business interruption, inflation, deflation or decreased demand for our products. Our success will depend, in part, on our ability to manage continued global political and/or economic uncertainty, especially in our significant geographic markets, due to terrorist and other hostile activities or natural disasters. We could also be negatively impacted by a global, regional or national economic crisis, including sovereign risk in the event of a deterioration in the credit worthiness of, or a default by local governments, resulting in a disruption of credit markets. Such events could negatively impact our ability to collect receipts due from governments, including refunds of value added taxes, create significant credit risks relative to our local customers and depository institutions and/or negatively impact our overall liquidity.
+Regulatory Environment. Changes in laws, regulations and the related interpretations may alter the environment in which we do business. This includes changes in environmental, competitive and product-related laws, as well as changes in accounting standards and tax laws. Our ability to manage regulatory, tax and legal matters (including product liability, patent, intellectual property, competition law matters and tax policy) and to resolve pending legal matters within current estimates may impact our results.
+RESULTS OF OPERATIONS
+The key metrics included in our discussion of our consolidated results of operations include net sales, gross margin, selling, general and administrative expenses (SG&A), other non-operating items and income taxes. The primary factors driving year over year changes in net sales include overall market growth in the categories in which we compete, product initiatives and geographic expansion, all of which drive changes in our underlying unit volume, as well as pricing actions (which can also indirectly impact volume), changes in product mix and foreign currency impacts on sales outside the United States. Most of our cost of products sold and SG&A expenses are to some extent variable in nature. Accordingly, our discussion of these operating costs focus primarily on relative margins rather than the absolute year over year changes in total costs. The primary drivers of changes in gross margin are input costs (energy and other
+
+
+17
+
+commodities), pricing impacts, product and geographic mix (for example, gross margins in developed markets are generally higher than in developing markets for similar products), the impacts of manufacturing savings projects and to a lesser extent scale impacts (for costs that are fixed or less variable in nature). The primary drivers of SG&A are marketing-related costs and overhead costs. Marketing-related costs are primarily variable in nature, although we do achieve some level of scale benefit over time due to overall growth and other marketing efficiencies. Overhead costs are also variable in nature, but on a relative basis, less so than marketing costs due to our ability to leverage our organization and systems infrastructures to support business growth. Accordingly, we generally experience more scale-related impacts for these costs.
+
+In February 2012, the Company announced a $10 billion productivity and cost savings plan to reduce costs in the areas of supply chain, research and development, marketing and overhead expenses. The plan is designed to accelerate cost reductions by streamlining management decision making, manufacturing and other work processes in order to help fund the Company's growth strategy. The Company expects to incur approximately $3.5 billion in before-tax restructuring costs over a four-year period as part of this plan.
+Net Sales
+Fiscal year 2012 compared with fiscal year 2011
+Net sales increased 3% to $83.7 billion in 2012 on unit volume that was consistent with the prior year period. Difficult macroeconomic conditions have caused a slowdown in market growth, particularly in developed markets. In addition, we have initiated a number of price increases across each reportable segment, in large part to recover the rising cost of commodities and currency devaluations. These factors have negatively impacted volume growth in 2012, but the price increases have led to higher overall sales. Volume grew low single digits in Beauty, Grooming, Health Care, and Baby Care and Family Care. Fabric Care and Home Care volume decreased low
+
+single digits. Volume grew mid-single digits in developing regions and was down low single digits in developed regions. The impact of overall global market growth was partially offset by market share declines in certain categories. Price increases added 4% to net sales, driven by price increases across all business segments and regions, primarily to help offset commodity costs and devaluing currencies in certain developing markets. Mix reduced net sales by 1% due to unfavorable geographic mix across the Beauty, Grooming, Health Care, and Fabric Care and Home Care reportable segments and unfavorable product mix. Foreign exchange was neutral to net sales. Organic sales growth was 3% driven by price increases.
+Fiscal year 2011 compared with fiscal year 2010
+Net sales increased 5% in 2011 to $81.1 billion on a 6% increase in unit volume. Volume grew behind market and share growth. Global market growth, in categories that we compete, grew 3% on a constant currency basis. Volume increased low single digits in developed regions and double digits in developing regions. All geographic regions contributed to volume growth, led by double-digit growth in Asia, high single-digit growth in Latin America and mid-single-digit growth in CEEMEA and Western Europe. All five of the business segments contributed to volume growth with high single-digit growth in the Baby Care and Family Care and Fabric Care and Home Care segments, mid-single-digit growth in the Beauty and Health Care segments, and a low single-digit growth in the Grooming segment. Organic volume, which excludes acquisitions and divestitures, was up 5%. Mix reduced net sales by 2% due mainly to disproportionate growth in developing regions and mid-tier products, both of which have lower than Company average selling prices, and declines in the premium-priced professional salon and prestige categories. Pricing added 1% to net sales behind price increases to offset higher commodity costs and foreign exchange. Foreign exchange was neutral to net sales. Organic sales were up 4%, led by high single-digit growth in the Baby Care and Family Care segment, as well as mid-single-digit growth across the Grooming and Health Care segments.
+
+Operating Costs
+Comparisons as a percentage of net sales; Years ended June 30
+2012
+
+Basis Point
+Change
+
+2011
+
+Basis Point
+Change
+
+2010
+Gross margin
+49.3
+%
+
+(160
+)
+
+50.9
+%
+
+(140
+)
+
+52.3
+%
+Selling, general and administrative expense
+31.5
+%
+
+(30
+)
+
+31.8
+%
+
+(20
+)
+
+32.0
+%
+Operating margin
+15.9
+%
+
+(320
+)
+
+19.1
+%
+
+(120
+)
+
+20.3
+%
+Earnings from continuing operations before income taxes
+15.3
+%
+
+(320
+)
+
+18.5
+%
+
+(70
+)
+
+19.2
+%
+Net earnings from continuing operations
+11.1
+%
+
+(330
+)
+
+14.4
+%
+
+40
+
+
+14.0
+%
+Net earnings attributable to Procter & Gamble
+12.9
+%
+
+(170
+)
+
+14.6
+%
+
+(180
+)
+
+16.4
+%
+
+
+
+ 18
+
+Fiscal year 2012 compared with fiscal year 2011
+Gross margin contracted 160 basis points in 2012 to 49.3% of net sales. The reduction in gross margin was driven mainly by a 230-basis point impact from higher commodity and energy costs. Gross margin was also negatively impacted by 200 basis points from negative geographic and product mix and by 30 basis points from the impact of increased restructuring spending due to the productivity and cost savings plan. The negative mix resulted from disproportionate growth in developing regions, as developing regions have lower relative gross margins than developed regions. These impacts were partially offset by a 200-basis point impact from increased pricing and a 140-basis point impact from manufacturing cost savings.
+Total SG&A increased 3% to $26.4 billion in 2012, driven by higher marketing spending to support initiative activity and a $510 million increase in restructuring spending from our productivity and cost savings plan, partially offset by a reduction in competition law fines (see Item 3 of this Form 10-K and Note 10 of our Consolidated Financial Statements, Commitments and Contingencies), which were $303 million in the prior year compared to $75 million in the current year. SG&A as a percentage of net sales decreased 30 basis points to 31.5%, as reduced competition law fines and the impact of increased scale leverage on marketing and overhead costs from higher sales were partially offset by 60 basis points of incremental restructuring costs.
+We incurred impairment charges of $1.6 billion ($1.5 billion after tax) in 2012 related to the carrying values of goodwill in our Appliances and Salon Professional businesses and our Koleston Perfect and Wella indefinite lived intangible assets, which are part of our Salon Professional business. See Note 2 of our Consolidated Financial Statements for more details, including factors leading to the impairment charges. Since goodwill is included in Corporate for internal management and segment reporting, the goodwill impairment charges are included in the Corporate segment. The indefinite lived intangible asset impairments are also included in the Corporate segment for management and segment reporting.
+Fiscal year 2011 compared with fiscal year 2010
+Gross margin contracted 140 basis points in 2011 to 50.9% of net sales. The reduction in gross margin was driven mainly by a 225-basis point increase in commodity and energy costs, along with negative product mix from disproportionate growth in developing regions and mid-tier products. These impacts were partially offset by manufacturing cost savings and the favorable impact of volume scale leverage.
+Total SG&A increased 4% to $25.8 billion in 2011 behind higher marketing and overhead spending, which was partially offset by the impact of lower foreign currency exchange costs. SG&A as a percentage of net sales decreased 20 basis points to 31.8% due to a reduction in overhead and other operating expenses as a percentage of net sales, partially offset by increased marketing investments.
+
+Marketing spending as a percentage of net sales increased 60 basis points due to additional marketing investments to support innovation and expansion plans. Overhead spending as a percentage of net sales decreased 50 basis points due to sales leverage, partially offset by added spending to support growth. Other operating expenses as a percentage of net sales decreased 30 basis points mainly due to a decrease in Venezuela-related foreign currency exchange costs of $548 million (see further discussion below in "Venezuela Currency Impacts"). Charges for competition law fines increased to $303 million versus the prior year charge of $283 million.
+Non-Operating Items
+Fiscal year 2012 compared with fiscal year 2011
+Interest expense decreased 7% in 2012 to $769 million, due to lower interest rates on floating rate debt and a decrease in average debt outstanding. Other non-operating income, net primarily includes divestiture gains, interest and investment income. Other non-operating income decreased $71 million to $262 million in 2012 mainly behind the impact of minor brand divestitures. A divestiture gain from the sale of our PUR water filtration brand in the current year was less than the Zest and Infasil divestiture gains in the prior year.
+Fiscal year 2011 compared with fiscal year 2010
+In 2011, interest expense decreased 12% to $831 million due primarily to a reduction in interest rates on floating rate debt partially offset by an increase in debt outstanding. Other non-operating income was a net benefit of $333 million in 2011 versus $82 million in 2010. This $251 million increase was primarily due to the impact of gains on divestitures in 2011 (Zest brand in North America and Infasil brand in Western Europe) and incremental costs in the 2010 associated with exercising the call option on an outstanding bond, partially offset by a gain due to the acquisition of MDVIP in 2010.
+Income Taxes
+Fiscal year 2012 compared with fiscal year 2011
+The effective tax rate on continuing operations increased 510 basis points to 27.1% in 2012 primarily due to a 250-basis point impact from the non-deductibility of impairment charges in the current year period and the net impact of favorable discrete adjustments related to uncertain income tax positions, which drove 250 basis points of the tax rate difference. The net benefit on the current year was $165 million, which netted to 130 basis points, versus 380 basis points of net benefits in the prior year.
+Fiscal year 2011 compared with fiscal year 2010
+In 2011, the effective tax rate on continuing operations decreased 500 basis points to 22.0%.  This was primarily driven by net favorable discrete adjustments (primarily driven by favorable audit and litigation settlements for uncertain tax positions in multiple jurisdictions relating to
+
+
+19
+
+prior periods), which drove 410 basis points of the effective tax rate difference.  Net adjustments to tax balances for uncertain tax positions in a number of jurisdictions resulted in a benefit of approximately $535 million in 2011, including a $252 million benefit from the settlement of U.S. tax litigation primarily related to the valuation of technology donations.  The 2011 tax rate also benefited from the geographic mix of current year sales and earnings, which drove a 50-basis point reduction as an increased proportion of earnings were generated in foreign markets with lower tax rates versus the United States.
+Net Earnings
+Fiscal year 2012 compared with fiscal year 2011
+Net earnings from continuing operations decreased 20% to $9.3 billion in 2012 as an increase in net sales was more than offset by the impact of impairment charges, incremental restructuring charges and an increase in income taxes. Operating margin declined 320 basis points due primarily to a 190-basis point impact from goodwill and intangible impairment charges in our Appliances and Salon Professional businesses and an 85-basis point impact from incremental restructuring charges. The impact of higher commodity costs and negative product mix were largely offset by higher pricing, manufacturing cost savings and increased scale leverage.
+Net earnings from discontinued operations increased $1.4 billion in 2012 due to the gain on the divestiture of the snacks business.
+Diluted net earnings per share decreased 7% from the prior year to $3.66 in fiscal 2012 behind a decrease in net earnings from continuing operations, partially offset by an increase in net earnings from discontinued operations and a reduction in shares outstanding. Diluted net earnings per share from continuing operations in 2012 decreased 19% to $3.12. Diluted net earnings per share from discontinued operations increased $0.46 due to the gain on the divestiture of the snacks business, partially offset by a decrease in the earnings of the snacks business prior to the divestiture. The reduction in the number of shares outstanding was driven by treasury share repurchases of $4.0 billion, which were made under our publicly announced share repurchase program.
+Core EPS in 2012 decreased 1% to $3.85. Core EPS represents diluted net earnings per share from continuing operations excluding current-year impairment charges for goodwill and indefinite lived intangible assets, current year incremental restructuring charges due to the productivity and cost savings plan, charges in both 2012 and 2011 for European legal matters and a 2011 benefit from the settlement of U.S. tax litigation primarily related to the valuation of technology donations.
+Fiscal year 2011 compared with fiscal year 2010
+In 2011, net earnings from continuing operations were $11.7 billion, an increase of 8% versus the prior year due mainly to
+
+net sales growth and a lower effective tax rate, partially offset by operating margin contraction. Operating margin decreased 120 basis points due to a decrease in gross margin, partially offset by a decrease in SG&A spending as a percentage of net sales. Gross margin declined behind higher commodity costs, partially offset by manufacturing cost savings. SG&A as a percentage of net sales declined due to reduced foreign currency exchange costs and a reduction in overhead spending as a percentage of net sales due to productivity improvements, partially offset by increased marketing investments.
+In 2011, net earnings from discontinued operations decreased $1.8 billion mainly due to the impact of the gain on the divestiture of the global pharmaceuticals business in 2010.
+Diluted net earnings per share from continuing operations in 2011 increased 11% to $3.85 behind higher net earnings from continuing operations and the reduction in shares outstanding. Diluted net earnings per share from discontinued operations declined $0.56. Diluted net earnings per share declined 4% to $3.93 driven by lower net earnings from discontinued operations, partially offset by higher net earnings from continuing operations and a reduction in weighted average shares outstanding resulting from share repurchase activity. The reduction in the number of shares outstanding was driven by treasury share repurchases of $7.0 billion, nearly all of which were made under our publicly announced share repurchase program. Core EPS increased 7% in 2011 to $3.87.
+
+Venezuela Currency Impacts
+Venezuela was determined to be a highly inflationary economy under U.S. GAAP during fiscal 2010 and as a result, the U.S. dollar is the functional currency for our subsidiaries in Venezuela. Currency remeasurement adjustments for non-dollar denominated monetary assets and liabilities held by these subsidiaries and other transactional foreign exchange gains and losses are reflected in earnings.  During fiscal 2010, the Venezuelan government devalued the Bolivar Fuerte relative to the U.S. dollar.  The remeasurement of our local balance sheets in fiscal 2010 to the new official exchange rate (4.3 Bolivares Fuertes to the U.S. dollar) did not materially impact our results.  This was due to the relatively small non-dollar denominated net monetary asset position in Venezuela. Our overall results in Venezuela are reflected in our Consolidated Financial Statements at the 4.3 rate, which is also expected to be applicable to dividend repatriations.
+Foreign currency transactions in Venezuela are subject to an official government currency exchange rate. Transactions at the official exchange rate are subject to CADIVI (Venezuela government's Foreign Exchange Administrative Commission). During recent years, in addition to the official exchange rate used for qualifying dividends and imports of goods and services, the Venezuelan government has had a number of currency controls for companies operating in
+
+
+ 20
+
+Venezuela. Through most of fiscal 2010, payments for certain imported goods and services that did not qualify for the official exchange rate had been satisfied by exchanging Bolivares Fuertes for U.S. dollars through securities transactions in the parallel market rather than at the more favorable official exchange rate.  In fiscal 2010, the Venezuelan government enacted regulations that reduced the availability of foreign currency at the official exchange rate. That and an increased spread between the official and parallel exchange rates during most of fiscal 2010 resulted in increased costs for exchange transactions executed using securities transactions in the parallel market during fiscal 2010. The parallel market is now controlled by The Central Bank of Venezuela as the only legal intermediary to execute foreign exchange transactions outside of CADIVI. This is done through the SITME rate, which was approximately 5.3 as of June 30, 2012. The notional amount of transactions that run through this foreign exchange rate for non-essential goods is restrictive, which has essentially eliminated our ability to access any foreign exchange rate other than through the official CADIVI rate to pay for imported goods and/or manage our local monetary asset balances. Finally, the Venezuelan government enacted a price control law during the second half of fiscal 2012 that negatively impacted the net selling prices of certain products sold in Venezuela. This impact was not significant for the fiscal year.
+As of June 30, 2012, we had net monetary assets denominated in local currency of approximately $1.1 billion. Approximately $338 million of this balance has been remeasured using the SITME parallel rate because we plan to use this amount of the net monetary assets (largely cash) to satisfy U.S. dollar denominated liabilities that do not qualify for official rate dollars. However, as noted in the preceding paragraph, the availability of the parallel market to settle these transactions is uncertain. The remaining net monetary asset balances are currently reflected within our Consolidated Financial Statements at the 4.3 official exchange rate. Depending on the future availability of U.S. dollars at the official rate, our local U.S. dollar needs, our overall repatriation plans and the creditworthiness of the
+
+local depository institutions and other creditors, we have exposure for our local monetary assets.  We also have devaluation exposure for the differential between the current and potential future official and parallel exchange rates.
+
+Our ability to effectively manage sales and profit levels in Venezuela will be impacted by several factors. These include the Company's ability to mitigate the effect of the recently enacted price controls, any potential future devaluation, any further Venezuelan government price or exchange controls, economic conditions and availability of raw materials and utilities.
+SEGMENT RESULTS
+Segment results reflect information on the same basis we use for internal management reporting and performance evaluation. The results of these reportable segments do not include certain non-business unit specific costs such as interest expense, investing activities and certain restructuring and asset impairment costs. These costs are reported in our Corporate segment and are included as part of our Corporate segment discussion. Additionally, as described in Note 11 to the Consolidated Financial Statements, we have investments in certain companies over which we exert significant influence, but do not control the financial and operating decisions and, therefore, do not consolidate these companies for U.S. GAAP purposes ("unconsolidated entities"). Given that certain of these investments are managed as integral parts of the Company's business units, they are accounted for as if they were consolidated subsidiaries for management and segment reporting purposes. This means pre-tax earnings in the business units include 100% of each pre-tax income statement component. In determining after-tax earnings in the business units, we eliminate the share of earnings applicable to other ownership interests, in a manner similar to noncontrolling interest, and apply the statutory tax rates. Eliminations to adjust each line item to U.S. GAAP are included in our Corporate segment. All references to net earnings throughout the discussion of segment results refer to net earnings from continuing operations attributable to Procter & Gamble.
+
+Net Sales Change Drivers vs. Year Ago (2012 vs. 2011)
+Volume with
+Acquisitions
+& Divestitures
+
+Volume
+Excluding
+Acquisitions
+& Divestitures
+
+Foreign
+Exchange
+
+Price
+
+Mix/Other
+
+Net Sales
+Growth
+Beauty
+2
+ %
+
+2
+ %
+
+0
+ %
+
+3
+%
+
+-3
+ %
+
+2
+%
+Grooming
+1
+ %
+
+1
+ %
+
+-1
+ %
+
+2
+%
+
+-1
+ %
+
+1
+%
+Health Care
+1
+ %
+
+0
+ %
+
+0
+ %
+
+3
+%
+
+-1
+ %
+
+3
+%
+Fabric Care and Home Care
+-1
+ %
+
+-1
+ %
+
+0
+ %
+
+5
+%
+
+-1
+ %
+
+3
+%
+Baby Care and Family Care
+1
+ %
+
+1
+ %
+
+0
+ %
+
+5
+%
+
+0
+ %
+
+6
+%
+TOTAL COMPANY
+0
+ %
+
+0
+ %
+
+0
+ %
+
+4
+%
+
+-1
+ %
+
+3
+%
+Net sales percentage changes are approximations based on quantitative formulas that are consistently applied.
+
+
+
+
+21
+
+BEAUTY
+($ millions)
+2012
+
+Change vs.
+Prior Year
+
+2011
+
+Change vs.
+Prior Year
+Volume
+n/a
+
+
++2
+ %
+
+n/a
+
+
++4
+ %
+Net sales
+$
+20,318
+
+
++2
+ %
+
+$
+19,937
+
+
++4
+ %
+Net earnings
+$
+2,390
+
+
+-6
+ %
+
+$
+2,542
+
+
+-1
+ %
+Fiscal year 2012 compared with fiscal year 2011
+Beauty net sales increased 2% to $20.3 billion in 2012 on unit volume growth of 2%. Organic sales also grew 2% on 2% organic volume growth. Price increases contributed 3% to net sales growth. Mix negatively impacted net sales by 3% behind a decrease in Salon Professional and a disproportionate growth in developing regions, which have lower than segment average selling prices. Global market share of the Beauty segment decreased 0.3 points. Volume increased mid-single digits in developing regions while developed region volume decreased low single digits. Volume in Retail Hair Care grew mid-single digits behind high single-digit growth in developing regions led by Pantene initiatives and Head & Shoulders geographic expansion. Volume in developed regions was down low single digits due to competitive activity. Global market share of the hair care category was unchanged. Volume in Beauty Care decreased mid-single digits due to the Zest and Infasil divestitures and the impact of competitive activity in North America and Western Europe which contributed to about half a point of global share loss. Volume in Salon Professional was down high single digits mainly due to market contraction in Europe and the impact of competitive activity. Volume in Prestige Products increased mid-single-digits driven by initiative activity, partially offset by minor brand divestitures.
+Net earnings decreased 6% to $2.4 billion as higher net sales were more than offset by a 100-basis point decrease in net earnings margin. Net earnings margin decreased due to gross margin contraction partially offset by lower SG&A as a percentage of net sales. Gross margin decreased primarily due to an increase in commodity costs and unfavorable geographic and product mix, partially offset by manufacturing cost savings and higher pricing. SG&A as a percentage of net sales decreased due to scale leverage from increased sales.
+Fiscal year 2011 compared with fiscal year 2010
+Beauty net sales increased 4% in 2011 to $19.9 billion on unit volume growth of 4%. Organic sales grew 3% on organic volume of 5%. Mix negatively impacted net sales by 2% behind disproportionate growth in developing regions, which have lower than segment average selling prices and declines in the premium-priced Prestige Products and Salon Professional categories. Favorable foreign exchange positively impacted net sales growth by 1%. Volume in developing regions increased double digits, while volume in developed regions declined low single digits. Volume in Retail Hair Care grew mid-single digits behind growth in all regions except North America. Developing
+
+regions grew double digits behind initiative activity on Pantene, Head & Shoulders and Rejoice, distribution expansions and market growth, which were partially offset by a mid-single-digit decline in North America due to competitive activity. Global market share of the hair care category was up slightly. Volume in Beauty Care was up mid single digits primarily due to higher shipments of Olay and Safeguard behind initiative activity and distribution expansion and market growth in developing markets. Volume in Salon Professional was down high single digits mainly due to the planned exit of non-strategic businesses and market size contractions in developed regions. Volume in Prestige Products declined low single digits primarily due to the divestiture of minor brands and lower shipments in Western Europe. Excluding the minor brand divestitures, volume increased low single digits due to growth of Dolce & Gabbana and Gucci fragrance brands behind initiative activity.
+Net earnings decreased 1% in 2011 to $2.5 billion as higher net sales were more than offset by a 60-basis point decrease in net earnings margin. Net earnings margin decreased due to gross margin contraction and higher SG&A as a percentage of net sales. Gross margin decreased primarily due to an increase in commodity costs, partially offset by manufacturing cost savings and higher pricing. SG&A as a percentage of net sales increased due to higher marketing spending, partially offset by lower overhead spending as a percentage of net sales and reduced foreign currency exchange costs.
+GROOMING
+($ millions)
+2012
+
+Change vs.
+Prior Year
+
+2011
+
+Change vs.
+Prior Year
+Volume
+n/a
+
+
++1
+%
+
+n/a
+
+
++3
+%
+Net sales
+$
+8,339
+
+
++1
+%
+
+$
+8,245
+
+
++5
+%
+Net earnings
+$
+1,807
+
+
++2
+%
+
+$
+1,775
+
+
++10
+%
+Fiscal year 2012 compared with fiscal year 2011
+Grooming net sales increased 1% to $8.3 billion in 2012 on a 1% increase in unit volume. Organic sales were up 2%. Price increases contributed 2% to net sales growth. Unfavorable geographic and product mix decreased net sales by 1% mainly due to disproportionate growth in developing markets, which have lower than segment average selling prices. Unfavorable foreign exchange decreased net sales growth by 1%. Global market share of the Grooming segment decreased 0.2 points. Volume grew mid-single digits in developing regions due to initiative activity and market growth and decreased low single digits in developed regions primarily due to competitive activity. Volume in Shave Care was up low single digits due to mid-single-digit growth in developing regions behind initiatives, Fusion ProGlide geographic expansion and market growth, partially offset by a low single-digit decrease in developed regions due to market contraction and the impact of competitive activity. Global market share of the blades and razors category was unchanged. Volume in Appliances decreased
+
+
+ 22
+
+mid-single digits due to market contraction in Western Europe and the impact of competitive activity. Global market share of the dry shave category was down over 2 points.
+Net earnings increased 2% to $1.8 billion due to higher net sales and a 10-basis point increase in net earnings margin. The net earnings margin increase was driven by a decrease in SG&A as a percentage of net sales, largely offset by gross margin contraction. SG&A as a percentage of net sales decreased due to reductions in both overhead and marketing spending. Gross margin decreased primarily due to an increase in commodity costs and unfavorable geographic and product mix, partially offset by price increases.
+Fiscal year 2011 compared with fiscal year 2010
+Grooming net sales increased 5% in 2011 to $8.2 billion on volume growth of 3%. Organic sales were up 5%. Price increases, taken primarily across blades and razors in Latin America and developed regions, contributed 2% to net sales growth. Volume grew high single digits in developing regions and decreased low single digits in developed regions. Volume for blades and razors was up low single digits due to market growth in developing regions, partially offset by reduced volume in the developed regions. Gillette Fusion and Venus shipments increased double digits behind distribution expansion and initiative activity; while Mach3 shipments increased low single digits due to growth in developing regions, partially offset by decreases in developed markets. Global market share of the blades and razors category was down about half a point. Volume in Appliances decreased low single digits due to competitive activity and a shift from low-tier, high volume products to higher-tier product offerings. Global market share of the dry shave category was down half a point.
+Net earnings increased 10% to $1.8 billion behind higher net sales and a 90-basis point increase in net earnings margin. Net earnings margin increased due to gross margin expansion, a lower effective tax rate and a decrease in SG&A as a percentage of net sales. Gross margin increased due to price increases, the favorable impact of volume scale leverage and manufacturing cost savings. The tax rate decrease was due to a shift in the geographic mix of earnings to countries with lower statutory tax rates. SG&A as a percentage of net sales was down due to lower foreign currency exchange costs and lower overhead spending as a percentage of net sales due to sales leverage, partially offset by higher marketing spending.
+HEALTH CARE
+($ millions)
+2012
+
+Change vs.
+Prior Year
+
+2011
+
+Change vs.
+Prior Year
+Volume
+n/a
+
+
++1
+%
+
+n/a
+
+
++5
+ %
+Net sales
+$
+12,421
+
+
++3
+%
+
+$
+12,033
+
+
++5
+ %
+Net earnings
+$
+1,826
+
+
++2
+%
+
+$
+1,796
+
+
+-3
+ %
+
+
+
+ Fiscal year 2012 compared with fiscal year 2011
+Health Care net sales increased 3% to $12.4 billion in 2012 on 1% growth in unit volume. Organic sales were up 2% on flat organic volume. Price increases contributed 3% to net sales growth. Mix negatively impacted net sales by 1% due to disproportionate growth in certain developing countries and products with lower than segment average selling prices. Global market share of the Health Care segment decreased 0.1 points. Volume increased mid-single digits in developing regions and decreased low single digits in developed regions. Oral Care volume was in line with the prior year period as the expansion of Oral-B toothpaste in Western Europe and Latin America were offset by the impact of competitive activity in developed markets and Asia and the lost volume following the price increases in Asia. Global market share of the oral care category was down slightly. Volume in Personal Health Care increased low single digits driven by the addition of the PGT Healthcare partnership. Organic volume was down low single digits as the benefits from market growth were more than offset by lower shipments of Prilosec OTC in North America. All-outlet value share of the U.S. personal health care market was down slightly. Volume in Feminine Care was up low single digits driven by mid-single digit growth in developing markets due to market growth and initiative activity in India, Brazil and CEEMEA. Feminine Care global market share was down about half a point.
+Net earnings increased 2% to $1.8 billion behind higher net sales partially offset by a 20-basis point decrease in net earnings margin. Net earnings margin decreased due to gross margin contraction, partially offset by lower SG&A as a percentage of net sales. Gross margin declined due to higher commodity costs and unfavorable product and geographic mix, partially offset by manufacturing cost savings and price increases. SG&A as a percentage of net sales decreased primarily due to scale leverage from increased sales.
+Fiscal year 2011 compared with fiscal year 2010
+Health Care net sales increased 5% in 2011 to $12.0 billion on 5% growth in unit volume. Organic sales were up 5%. Volume increased high single digits in developing regions and low single digits in developed regions. Volume in Oral Care grew mid-single digits behind initiative activity and incremental merchandising support of Crest and Oral-B. Global market share of the oral care category was up over half a point. Volume in Personal Health Care grew low single digits behind higher shipments of Vicks in North America and the developing regions, partially offset by continuing decline of Prilosec OTC in North America due to competitive activity. All-outlet value share of the U.S. personal health care market increased about half a point. Volume in Feminine Care was up mid-single digits mainly due to higher shipments of Naturella, behind expansion into developing regions, and Always, behind initiative activity in developing regions. Global market share of the feminine care category was down less than half a point.
+
+
+23
+
+Net earnings decreased 3% to $1.8 billion as higher net sales were more than offset by a 130-basis point decrease in net earnings margin. Net earnings margin decreased due to lower gross margin, higher SG&A as a percentage of net sales and a higher effective tax rate. Gross margin declined due to higher commodity costs and unfavorable mix due to disproportionate growth in developing regions, partially offset by manufacturing cost savings. SG&A as a percentage of net sales increased behind higher marketing spending to support growth, partially offset by lower foreign currency exchange costs. The tax rate increase was due to a shift in the geographic mix of earnings to countries with higher statutory tax rates.
+
+FABRIC CARE AND HOME CARE
+($ millions)
+2012
+
+Change vs.
+Prior Year
+
+2011
+
+Change vs.
+Prior Year
+Volume
+n/a
+
+
+-1
+ %
+
+n/a
+
+
++6
+ %
+Net sales
+$
+27,254
+
+
++3
+ %
+
+$
+26,536
+
+
++4
+ %
+Net earnings
+$
+2,915
+
+
+-6
+ %
+
+$
+3,109
+
+
+-12
+ %
+Fiscal year 2012 compared with fiscal year 2011
+Fabric Care and Home Care net sales increased 3% to $27.3 billion in 2012. Unit volume decreased 1%. Organic sales were up 3%. Price increases contributed 5% to net sales growth. Mix negatively impacted net sales growth by 1% due to disproportionate growth of mid-tier product lines and developing regions, which have lower than segment average selling prices. Global market share of the Fabric Care and Home Care segment decreased 0.3 points. Volume in developing regions grew mid-single digits, while volume in developed regions decreased mid-single digits. Fabric Care volume decreased low single digits mainly due to the impact of price increases in North America, partially offset by growth in Asia. Global market share of the fabric care category decreased half a point. Home Care volume increased low single digits driven by initiative activity and distribution expansion in developing regions, partially offset by a low-single-digit decline in developed regions due to the impact of price increases. Global market share of the home care category was unchanged. Batteries volume decreased low single digits due to market contraction and distribution losses in developed markets, partially offset by market growth and distribution expansion in developing regions. Global market share of the batteries category increased about half a point. Pet Care volume decreased high single digits due mainly to market contraction and customer inventory reductions. Global market share of the pet care category was down about half a point.
+Net earnings decreased 6% to $2.9 billion as net sales growth was more than offset by an 100-basis point decrease in net earnings margin. Net earnings margin decreased primarily due to gross margin contraction. Gross margin decreased mainly due to higher commodity costs and unfavorable product and geographic mix, partially offset by manufacturing cost savings and higher pricing. SG&A as a
+
+percentage of net sales decreased nominally as higher marketing costs were largely offset by overhead scale leverage from increased sales.
+Fiscal year 2011 compared with fiscal year 2010
+Fabric Care and Home Care net sales increased 4% in 2011 to $26.5 billion on a 6% increase in unit volume. Organic sales were up 2%. Organic volume, which excludes the impact of the Ambi Pur and Natura acquisitions, increased 5%. Mix negatively impacted net sales growth by 2% due to disproportionate growth of mid-tier product lines and powdered laundry detergents, which have lower than segment average selling prices. Volume in developing regions was up high single digits, while volume in developed regions grew mid-single digits. Fabric Care volume increased mid-single digits, led by high single-digit growth in developing regions behind initiative activity, increased distribution and market growth. Global market share of the fabric care category increased slightly. Home Care volume increased double digits due, in part, to the Ambi Pur acquisition. Organic volume in Home Care was up high single digits driven mainly by initiative activity, including launches of Gain hand dishwashing liquid and Febreze Set & Refresh in North America, and geographic expansion of dish and air care product lines. Global market share of the home care category was up nearly 1 point. Batteries volume grew mid-single digits primarily due to price reductions executed through pack count increases in North America, which were implemented in January 2010, initiative activity in Western Europe and market growth and distribution expansion in Asia. Global market share of the batteries category increased more than half a point. Pet Care volume was down mid-single digits mainly due to the impacts of the recall of select dry pet food products and the supply constraints resulting from restructuring the supply chain following the recalls, partially offset by the impact of the Natura acquisition in June 2010. Excluding the Natura acquisition, Pet Care volume decreased double digits. Global market share of the pet care category was down half a point.
+Net earnings decreased 12% to $3.1 billion as net sales growth was more than offset by a 220-basis point decrease in net earnings margin. Net earnings margin decreased mainly due to gross margin contraction. SG&A as a percentage of net sales and the effective tax rate also increased. Gross margin decreased mainly due to higher commodity costs and unfavorable product mix behind disproportionate growth of developing regions and mid-tier products, partially offset by manufacturing cost savings. SG&A as a percentage of net sales increased behind higher overhead spending to support growth and due to costs related to the select dry pet food products recall. The tax rate increased due to a shift in the geographic mix of earnings to countries with higher statutory tax rates.
+
+
+ 24
+
+BABY CARE AND FAMILY CARE
+($ millions)
+2012
+
+Change vs.
+Prior Year
+
+2011
+
+Change vs.
+Prior Year
+Volume
+n/a
+
+
++1
+%
+
+n/a
+
+
++8
+ %
+Net sales
+$
+16,493
+
+
++6
+%
+
+$
+15,606
+
+
++6
+ %
+Net earnings
+$
+2,123
+
+
++7
+%
+
+$
+1,978
+
+
+-3
+ %
+Fiscal year 2012 compared with fiscal year 2011
+Baby Care and Family Care net sales increased 6% to $16.5 billion in 2012 on 1% volume growth. Organic sales were up 6%. Pricing added 5% to net sales growth. Global market share of the Baby Care and Family Care segment increased 0.2 points. Volume grew double digits in developing regions and decreased low single digits in developed regions. Volume in Baby Care was up mid-single digits behind market size growth and distribution expansion in developing regions, partially offset by declines in North America and Western Europe from diaper market contraction. Global market share of the baby care category increased more than half a point. Volume in Family Care decreased low single digits primarily due to competitive activity and the impact of a price increase in North America. In the U.S., all-outlet share of the family care category was down half a point.
+Net earnings increased 7% to $2.1 billion due to sales growth and a 20-basis point increase in net earnings margin. Net earnings margin increased mainly due to a decrease in SG&A as a percentage of net sales, partially offset by a lower gross margin. The reduction in gross margin was driven primarily by higher commodity costs and unfavorable geographic and product mix, partially offset by the impact of higher pricing. SG&A as a percentage of net sales decreased due to scale leverage from increased sales.
+Fiscal year 2011 compared with fiscal year 2010
+Baby Care and Family Care net sales increased 6% in 2011 to $15.6 billion on 8% volume growth. Organic sales were up 7%. Mix reduced net sales by 2% driven mainly by disproportionate growth of mid-tier product lines, larger package sizes and developing regions, all of which have lower than segment average selling prices. Pricing added 1% to net sales growth primarily due to price increases executed in Baby Care to offset higher commodity costs and foreign exchange. Unfavorable foreign exchange negatively impacted net sales by 1%. Volume grew double digits in developing regions and mid-single digits in developed regions. Volume in Baby Care was up high single digits primarily due to double-digit growth in developing regions behind initiative activity, market growth and distribution expansion. Global market share of the baby care category increased over 1 point. Volume in Family Care increased high single digits driven by the continued impact of initiatives launched in prior periods, with high single-digit growth in North America. In the U.S., all-outlet share of the family care category increased half a point.
+Net earnings decreased 3% to $2.0 billion as net sales growth was more than offset by a 120-basis point reduction
+
+in net earnings margin. Net earnings margin declined mainly due to a lower gross margin, partially offset by a decrease in SG&A as a percentage of net sales. The reduction in gross margin was driven by higher commodity costs and unfavorable product mix, behind disproportionate growth of mid-tier product lines, larger package sizes and developing regions, which were only partially offset by the favorable impact of volume scale leverage and manufacturing cost savings. SG&A as a percentage of net sales declined due to lower foreign currency exchange costs.
+CORPORATE
+Corporate includes certain operating and non-operating activities not allocated to specific business units. These include: the incidental businesses managed at the corporate level; financing and investing activities; other general corporate items; the historical results of certain divested brands and categories; certain asset impairment charges; and certain restructuring-type activities to maintain a competitive cost structure, including manufacturing and workforce optimization. Corporate also includes reconciling items to adjust the accounting policies used in the segments to U.S. GAAP. The most significant reconciling items include income taxes (to adjust from statutory rates that are reflected in the segments to the overall Company effective tax rate), adjustments for unconsolidated entities (to eliminate net sales, cost of products sold and SG&A for entities that are consolidated in the segments but accounted for using the equity method for U.S. GAAP) and noncontrolling interest adjustments for subsidiaries where we do not have 100% ownership. Since certain unconsolidated entities and less than 100%-owned subsidiaries are managed as integral parts of the related segments, they are accounted for similar to a wholly-owned subsidiary for management and segment purposes. This means our segment results recognize 100% of each income statement component through before-tax earnings in the segments, with eliminations for unconsolidated entities and noncontrolling interests in Corporate. In determining segment net earnings, we apply the statutory tax rates (with adjustments to arrive at the Company's effective tax rate in Corporate) and eliminate the share of earnings applicable to other ownership interests, in a manner similar to noncontrolling interest.
+Corporate net sales primarily reflect the adjustment to eliminate the sales of unconsolidated entities included in business segment results. Accordingly, Corporate net sales are generally negative. Negative net sales in Corporate decreased by $108 million due to adjustments required to eliminate the lower net sales of unconsolidated entities. Net Corporate expenses increased $2.2 billion primarily due to the net after tax goodwill and intangibles impairment charges of $1.5 billion, incremental after-tax restructuring charges of $587 million and the impact of lower net discrete tax adjustments in the current year. Additional discussion of the items impacting net earnings in Corporate are included in the Results of Operations section.
+
+
+25
+
+In 2011, negative net sales in Corporate were down $101 million due to adjustments required to eliminate lower sales of unconsolidated entities. Net income from continuing operations increased $1.3 billion to $498 million. The increase was due to net discrete adjustments to reverse reserves for uncertain tax positions, lower interest expense, a reduction in restructuring-type charges, divestiture gains and prior-period charges for the taxation of certain future retiree prescription drug subsidy payments in the U.S. Additional discussion of the items impacting net income in Corporate are included in the Results of Operations section above.
+Productivity and Cost Savings Plan
+In February 2012, the Company announced a $10 billion productivity and cost savings plan to reduce costs and better leverage scale in the areas of supply chain, research and development, marketing and overheads.   The program was designed to accelerate cost reductions by streamlining management decision making, manufacturing and other work processes to fund the Company's growth strategy.
+As part of this plan the Company expects to incur approximately $3.5 billion in before-tax restructuring costs over a four-year period (from fiscal 2012 through fiscal 2015). More than half of the costs will be incurred by the end of fiscal 2013 and the remainder in fiscal years 2014 and 2015. Savings generated from the restructuring costs are difficult to estimate, given the nature of the activities, the corollary benefits achieved, the timing of the execution and the degree of reinvestment.  Overall, the costs are expected to deliver approximately $2 billion in before-tax annual savings.  The before-tax savings in the current year are not material due to the timing of the plan.
+Restructuring accruals of $343 million as of June 30, 2012 are classified as current liabilities.  Approximately 62% of the restructuring charges incurred during 2012 either have been or will be settled with cash.  Consistent with our historical policies for ongoing restructuring-type activities, the resulting charges will be funded by and included within Corporate for segment reporting.
+Refer to Note 3 in our Consolidated Financial Statements for more details on the productivity and cost savings plan.
+CASH FLOW, FINANCIAL CONDITION AND LIQUIDITY
+We believe our financial condition continues to be of high quality, as evidenced by our ability to generate substantial cash from operations and ready access to capital markets at competitive rates.
+Operating cash flow provides the primary source of funds to finance operating needs and capital expenditures. Excess operating cash is used first to fund shareholder dividends. Other discretionary uses include acquisitions and share repurchases to complement our portfolio of businesses, brands and geographies. As necessary, we may supplement
+
+operating cash flow with debt to fund these activities. The overall cash position of the Company reflects our strong business results and a global cash management strategy that takes into account liquidity management, economic factors and tax considerations.
+Operating Cash Flow
+Fiscal year 2012 compared with fiscal year 2011
+Operating cash flow was $13.3 billion in 2012, in line with the prior year. Operating cash flows resulted primarily from net earnings, adjusted for non-cash items (depreciation and amortization, stock based compensation, asset impairments, deferred income taxes, and gains on sale of businesses), partially offset by working capital increases. Increased accounts receivable used $427 million of cash to fund growth. However, accounts receivable days sales outstanding were down 2 days primarily due to the impact of foreign exchange. Inventory generated $77 million of cash, mainly due to an increase in inventory management improvement efforts, partially offset by inventory to support product initiatives and to build stock to support capacity expansions and manufacturing sourcing changes. Inventory days on hand declined by 10 days primarily due to inventory management improvement efforts and the impact of foreign exchange. Accounts payable, accrued and other liabilities used $22 million of cash, due primarily to the payment of fines related to violations of the European competition laws. Cash flow from discontinued operations contributed approximately $200 million to operating cash flow.
+Fiscal year 2011 compared with fiscal year 2010
+Operating cash flow was $13.3 billion in 2011, a 17% decrease versus the prior year. Operating cash flow resulted primarily from net earnings adjusted for non-cash items (depreciation and amortization, stock-based compensation, deferred income taxes and gain on the sale of businesses), partially offset by an increase in working capital. The net of accounts receivable, inventory and accounts payable consumed $569 million of operating cash flow in 2011 mainly due to increases in inventories and accounts receivables. Inventory consumed $501 million driven by higher commodity costs, business growth and increased stock levels in advance of initiatives and sourcing changes. Inventory days on hand increased by five days due to the impact of foreign exchange, higher commodity costs and increased safety stock levels. Accounts receivable used $426 million primarily to support business growth. Accounts receivable days sales outstanding were up three days due to timing of sales and the impact of foreign exchange. Inventory and accounts receivable increases were partially offset by accounts payable, accrued and other liabilities, which increased by $358 million to support business growth. Other operating assets and liabilities were also a significant use of operating cash flow due primarily to net reductions in reserves for uncertain tax positions and an increase in the amount of value added taxes due from various governmental authorities. In the prior year, working
+
+
+ 26
+
+capital was a net source of cash.
+Free Cash Flow. We view free cash flow as an important measure because it is a factor impacting the amount of cash available for dividends and other discretionary investment. It is defined as operating cash flow less capital expenditures and is one of the measures used to evaluate senior management and determine their at-risk compensation.
+Fiscal year 2012 compared with fiscal year 2011
+Free cash flow was $9.3 billion in 2012, a decrease of 7% versus the prior year. Free cash flow decreased primarily due to higher capital spending to support geographic expansion. Free cash flow productivity, defined as the ratio of free cash flow to net earnings, was 85% in 2012.
+Fiscal year 2011 compared with fiscal year 2010
+In 2011, free cash flow was $10.0 billion, a decrease of 23% versus the prior year. Free cash flow decreased due to lower operating cash flow and higher capital spending. Free cash flow productivity was 84% in 2011.
+Investing Cash Flows
+Fiscal year 2012 compared with fiscal year 2011
+Net investing activities consumed $1.1 billion in cash in 2012 mainly due to capital spending, partially offset by proceeds from asset sales of $2.9 billion. These proceeds were primarily related to cash received from the sale of our snacks business in 2012.
+Fiscal year 2011 compared with fiscal year 2010
+In 2011, net investing activities consumed $3.5 billion of cash due to capital spending and acquisitions, partially offset by proceeds from asset sales.
+Capital Spending. We view capital spending efficiency as a critical component of our overall cash management strategy. We manage capital spending to support our business growth plans and have cost controls to deliver our cash generation targets. Capital expenditures, primarily to support capacity expansion, innovation and cost savings, were $4.0 billion in 2012 and $3.3 billion in 2011. The increase in capital spending resulted primarily from capacity expansions. Capital spending as a percentage of net sales increased 60 basis points to 4.7% in 2012. Capital spending for our discontinued snacks business was approximately $60 million in 2012. As we continue to support growth, capital spending in total and as a percentage of net sales is expected to increase in fiscal 2013. Capital spending as a percentage of net sales increased 10 basis points to 4.1% in 2011.
+Acquisitions. Acquisitions used $134 million of cash in 2012 primarily for the acquisition of New Chapter, a vitamins supplement business. In 2011, acquisitions used $474 million of cash primarily for the acquisition of Ambi Pur, an air freshener business.
+
+Proceeds from Divestitures and Other Asset Sales. Proceeds from asset sales contributed $2.9 billion to cash in 2012 mainly due to the sale of our snacks business. In 2011, proceeds from asset sales contributed $225 million to cash mainly due to the sale of our Infasil brand in Western Europe and Zest brand in North America.
+
+Financing Cash Flows
+Dividend Payments. Our first discretionary use of cash is dividend payments. Dividends per common share increased 8% to $2.14 per share in 2012. Total dividend payments to common and preferred shareholders were $6.1 billion in 2012 and $5.8 billion in 2011. The increase in dividend payments resulted from increases in our quarterly dividends per share, partially offset by a reduction in the number of shares outstanding. In April 2012, the Board of Directors declared an increase in our quarterly dividend from $0.525 to $0.562 per share on Common Stock and Series A and B ESOP Convertible Class A Preferred Stock. This represents a 7% increase compared to the prior quarterly dividend and is the 56th consecutive year that our dividend has increased. We have paid a dividend in every year since our incorporation in 1890.
+Long-Term and Short-Term Debt. We maintain debt levels we consider appropriate after evaluating a number of factors, including cash flow expectations, cash requirements for ongoing operations, investment and financing plans (including acquisitions and share repurchase activities) and the overall cost of capital. Total debt was $29.8 billion as of June 30, 2012 and $32.0 billion as of June 30, 2011. Our total debt decreased in 2012 mainly due to bonds reaching maturity and a reduction in commercial paper outstanding, partially offset by debt issuances.
+Treasury Purchases. Total share repurchases were $4.0 billion in 2012 and $7.0 billion in 2011.
+Liquidity
+At June 30, 2012 our current liabilities exceeded current assets by $3.0 billion, largely due to short-term borrowings under our commercial paper program. We anticipate being able to support our short-term liquidity and operating needs largely through cash generated from operations. We utilize short- and long-term debt to fund discretionary items, such as acquisitions and share repurchases. We have strong short- and long-term debt ratings, which have enabled and should continue to enable us to refinance our debt as it becomes due at favorable rates in commercial paper and bond markets. In addition, we have agreements with a diverse group of financial institutions that, if needed, should provide sufficient credit funding to meet short-term financing requirements.
+On June 30, 2012, our short-term credit ratings were P-1 (Moody's) and A-1+ (Standard & Poor's), while our long-term credit ratings are Aa3 (Moody's) and AA- (Standard & Poor's), both with a stable outlook.
+
+
+27
+
+We maintain bank credit facilities to support our ongoing commercial paper program. These facilities can be extended for certain periods of time as specified in, and in accordance with, the terms of each credit agreement. The current facility is an $11.0 billion facility split between a $7.0 billion 5-year facility and a $4.0 billion 364-day facility, which expire in August 2017 and August 2013, respectively. These facilities are currently undrawn and we anticipate that they will remain largely undrawn for the foreseeable future. These credit facilities do not have cross-default or ratings triggers, nor do they have material adverse events clauses, except at
+
+the time of signing. In addition to these credit facilities, we have an automatically effective registration statement on Form S-3 filed with the SEC that is available for registered offerings of short- or long-term debt securities.
+Guarantees and Other Off-Balance Sheet Arrangements
+We do not have guarantees or other off-balance sheet financing arrangements, including variable interest entities, which we believe could have a material impact on financial condition or liquidity.
+
+
+
+Contractual Commitments
+The following table provides information on the amount and payable date of our contractual commitments as of June 30, 2012.
+($ millions)
+Total
+
+Less Than
+1 Year
+
+1-3 Years
+
+3-5 Years
+
+After
+5 Years
+RECORDED LIABILITIES
+
+
+
+
+
+
+
+
+
+Total debt
+$
+29,490
+
+
+$
+8,672
+
+
+$
+6,927
+
+
+$
+3,356
+
+
+$
+10,535
+
+Capital leases
+45
+
+
+16
+
+
+14
+
+
+14
+
+
+1
+
+Uncertain tax positions(1)
+33
+
+
+33
+
+
+—
+
+
+—
+
+
+—
+
+OTHER
+
+
+
+
+
+
+
+
+
+Interest payments relating to long-term debt
+8,866
+
+
+909
+
+
+1,546
+
+
+1,170
+
+
+5,241
+
+Operating leases(2)
+1,817
+
+
+289
+
+
+498
+
+
+393
+
+
+637
+
+Minimum pension funding(3)
+1,032
+
+
+352
+
+
+680
+
+
+—
+
+
+—
+
+Purchase obligations(4)
+2,187
+
+
+1,094
+
+
+596
+
+
+215
+
+
+282
+
+TOTAL CONTRACTUAL COMMITMENTS
+$
+43,470
+
+
+$
+11,365
+
+
+$
+10,261
+
+
+$
+5,148
+
+
+$
+16,696
+
+(1)
+As of June 30, 2012, the Company's Consolidated Balance Sheet reflects a liability for uncertain tax positions of $2.3 billion, including $505 million of interest and penalties. Due to the high degree of uncertainty regarding the timing of future cash outflows of liabilities for uncertain tax positions beyond one year, a reasonable estimate of the period of cash settlement beyond twelve months from the balance sheet date of June 30, 2012 cannot be made.
+(2)
+Operating lease obligations are shown net of guaranteed sublease income.
+(3)
+Represents future pension payments to comply with local funding requirements. These future pension payments assume the Company continues to meet its future statutory funding requirements. Considering the current economic environment in which the Company operates, the Company believes its cash flows are adequate to meet the above future statutory funding requirements. The projected payments beyond fiscal year 2015 are not currently determinable.
+(4)
+Primarily reflects future contractual payments under various take-or-pay arrangements entered into as part of the normal course of business. Commitments made under take-or-pay obligations represent future purchases in line with expected usage to obtain favorable pricing. Approximately 22% relates to service contracts for information technology, human resources management and facilities management activities that have been outsourced. While the amounts listed represent contractual obligations, we do not believe it is likely that the full contractual amount would be paid if the underlying contracts were canceled prior to maturity. In such cases, we generally are able to negotiate new contracts or cancellation penalties, resulting in a reduced payment. The amounts do not include obligations related to the put of our Spanish joint venture discussed further in Note 10 to the Consolidated Financial Statements (approximately $1 billion) and other contractual purchase obligations that are not take-or-pay arrangements. Such contractual purchase obligations are primarily purchase orders at fair value that are part of normal operations and are reflected in historical operating cash flow trends. We do not believe such purchase obligations will adversely affect our liquidity position.
+
+
+
+
+
+ 28
+
+SIGNIFICANT ACCOUNTING POLICIES AND ESTIMATES
+In preparing our financial statements in accordance with U.S. GAAP, there are certain accounting policies that may require a choice between acceptable accounting methods or may require substantial judgment or estimation in their application. These include income taxes, certain employee benefits and acquisitions, goodwill and intangible assets. We believe these accounting policies, and others set forth in Note 1 to the Consolidated Financial Statements, should be reviewed as they are integral to understanding the results of operations and financial condition of the Company.
+The Company has discussed the selection of significant accounting policies and the effect of estimates with the Audit Committee of the Company's Board of Directors.
+Income Taxes
+Our annual tax rate is determined based on our income, statutory tax rates and the tax impacts of items treated differently for tax purposes than for financial reporting purposes. Tax law requires certain items be included in the tax return at different times than the items are reflected in the financial statements. Some of these differences are permanent, such as expenses that are not deductible in our tax return, and some differences are temporary, reversing over time, such as depreciation expense. These temporary differences create deferred tax assets and liabilities.
+Deferred tax assets generally represent the tax effect of items that can be used as a tax deduction or credit in future years for which we have already recorded the tax benefit in our income statement. Deferred tax liabilities generally represent tax expense recognized in our financial statements for which payment has been deferred, the tax effect of expenditures for which a deduction has already been taken in our tax return but has not yet been recognized in our financial statements or assets recorded at fair value in business combinations for which there was no corresponding tax basis adjustment.
+Inherent in determining our annual tax rate are judgments regarding business plans, planning opportunities and expectations about future outcomes. Realization of certain deferred tax assets is dependent upon generating sufficient taxable income in the appropriate jurisdiction prior to the expiration of the carryforward periods. Although realization is not assured, management believes it is more likely than not that our deferred tax assets, net of valuation allowances, will be realized.
+We operate in multiple jurisdictions with complex tax policy and regulatory environments. In certain of these jurisdictions, we may take tax positions that management believes are supportable, but are potentially subject to successful challenge by the applicable taxing authority. These interpretational differences with the respective governmental taxing authorities can be impacted by the local economic and fiscal environment. We evaluate our tax positions and establish liabilities in accordance with the
+
+applicable accounting guidance on uncertainty in income taxes. We review these tax uncertainties in light of changing facts and circumstances, such as the progress of tax audits, and adjust them accordingly. We have a number of audits in process in various jurisdictions. Although the resolution of these tax positions is uncertain, based on currently available information, we believe that the ultimate outcomes will not have a material adverse effect on our financial position, results of operations or cash flows.
+Because there are a number of estimates and assumptions inherent in calculating the various components of our tax provision, certain changes or future events such as changes in tax legislation, geographic mix of earnings, completion of tax audits or earnings repatriation plans could have an impact on those estimates and our effective tax rate. For additional details on the Company's income taxes, see Note 9 to the Consolidated Financial Statements.
+Employee Benefits
+We sponsor various post-employment benefits throughout the world. These include pension plans, both defined contribution plans and defined benefit plans, and other post-employment benefit (OPEB) plans, consisting primarily of health care and life insurance for retirees. For accounting purposes, the defined benefit pension and OPEB plans require assumptions to estimate the projected and accumulated benefit obligations, including the following variables: discount rate; expected salary increases; certain employee-related factors, such as turnover, retirement age and mortality; expected return on assets and health care cost trend rates. These and other assumptions affect the annual expense and obligations recognized for the underlying plans. Our assumptions reflect our historical experiences and management's best judgment regarding future expectations. As permitted by U.S. GAAP, the net amount by which actual results differ from our assumptions is deferred. If this net deferred amount exceeds 10% of the greater of plan assets or liabilities, a portion of the deferred amount is included in expense for the following year. The cost or benefit of plan changes, such as increasing or decreasing benefits for prior employee service (prior service cost), is deferred and included in expense on a straight-line basis over the average remaining service period of the employees expected to receive benefits.
+The expected return on plan assets assumption impacts our defined benefit expense, since many of our defined benefit pension plans and our primary OPEB plan are partially funded. The process for setting the expected rates of return is described in Note 8 to the Consolidated Financial Statements. For 2012, the average return on assets assumptions for pension plan assets and OPEB assets were 7.4% and 9.2%, respectively. A change in the rate of return of 100 basis points for both pension and OPEB assets would impact annual after-tax benefit expense by approximately $90 million.
+Since pension and OPEB liabilities are measured on a
+
+
+29
+
+discounted basis, the discount rate impacts our plan obligations and expenses. Discount rates used for our U.S. defined benefit pension and OPEB plans are based on a yield curve constructed from a portfolio of high quality bonds for which the timing and amount of cash outflows approximate the estimated payouts of the plan. For our international plans, the discount rates are set by benchmarking against investment grade corporate bonds rated AA or better. The average discount rate on the defined benefit pension plans and OPEB plans of 4.2% and 4.3% respectively, represents a weighted average of local rates in countries where such plans exist. A 100-basis point change in the pension discount rate would impact annual after-tax defined benefit pension expense by approximately $160 million. A change in the OPEB discount rate of 100 basis points would impact annual after-tax OPEB expense by approximately $70 million. For additional details on our defined benefit pension and OPEB plans, see Note 8 to the Consolidated Financial Statements.
+Acquisitions, Goodwill and Intangible Assets
+We account for acquired businesses using the acquisition method of accounting. Under the purchase method, our Consolidated Financial Statements reflect the operations of an acquired business starting from the completion of the acquisition. In addition, the assets acquired and liabilities assumed are recorded at the date of acquisition at their respective estimated fair values, with any excess of the purchase price over the estimated fair values of the net assets acquired recorded as goodwill.
+Significant judgment is required in estimating the fair value of intangible assets and in assigning their respective useful lives. Accordingly, we typically obtain the assistance of third-party valuation specialists for significant tangible and intangible assets. The fair value estimates are based on available historical information and on future expectations and assumptions deemed reasonable by management, but are inherently uncertain.
+We typically use an income method to estimate the fair value of intangible assets, which is based on forecasts of the expected future cash flows attributable to the respective assets. Significant estimates and assumptions inherent in the valuations reflect a consideration of other marketplace participants, and include the amount and timing of future cash flows (including expected growth rates and profitability), the underlying product or technology life cycles, economic barriers to entry, a brand's relative market position and the discount rate applied to the cash flows. Unanticipated market or macroeconomic events and circumstances may occur, which could affect the accuracy or validity of the estimates and assumptions.
+Determining the useful life of an intangible asset also requires judgment. Certain brand intangibles are expected to have indefinite lives based on their history and our plans to continue to support and build the acquired brands. Other acquired intangible assets (e.g., certain trademarks or brands, customer relationships, patents and technologies) are
+
+expected to have determinable useful lives. Our assessment as to brands that have an indefinite life and those that have a determinable life is based on a number of factors including competitive environment, market share, brand history, underlying product life cycles, operating plans and the macroeconomic environment of the countries in which the brands are sold. Our estimates of the useful lives of determinable-lived intangibles are primarily based on these same factors. All of our acquired technology and customer-related intangibles are expected to have determinable useful lives.
+
+The costs of determinable-lived intangibles are amortized to expense over their estimated life. The value of indefinite-lived intangible assets and residual goodwill is not amortized, but is tested at least annually for impairment. Our impairment testing for goodwill is performed separately from our impairment testing of indefinite-lived intangibles. We test goodwill for impairment by reviewing the book value compared to the fair value at the reportable unit level. We test individual indefinite-lived intangibles by reviewing the individual book values compared to the fair value. We determine the fair value of our reporting units and indefinite-lived intangible assets based on the income approach. Under the income approach, we calculate the fair value of our reporting units and indefinite-lived intangible assets based on the present value of estimated future cash flows. Considerable management judgment is necessary to evaluate the impact of operating and macroeconomic changes and to estimate future cash flows to measure fair value. Assumptions used in our impairment evaluations, such as forecasted growth rates and cost of capital, are consistent with internal projections and operating plans. We believe such assumptions and estimates are also comparable to those that would be used by other marketplace participants. When certain events or changes in operating conditions occur, indefinite-lived intangible assets may be reclassified to a determinable life asset and an additional impairment assessment may be performed.
+
+During the second quarter of fiscal 2012, we changed our annual goodwill impairment testing date from July 1 to October 1 of each year. This change was made to better align the timing of our annual impairment testing with the timing of the Company's annual strategic planning process. We tested goodwill for impairment as of July 1, 2011 (the testing date under our previous policy) and no impairments were indicated. The results of our impairment testing during the quarter ended December 31, 2011, indicated that the estimated fair values of our Appliances and Salon Professional reporting units were less than their respective carrying amount therefore we recorded a non-cash before and after tax impairment charge of $1.3 billion. Additionally, our impairment testing for indefinite lived intangible assets during the quarter ended December 31, 2011 indicated a decline in the fair value of our Koleston Perfect and Wella trade name intangible assets below their respective carrying values. This resulted in a non-cash before tax impairment charge of $246 million ($173 million
+
+
+ 30
+
+after tax) to reduce the carrying amounts of these assets to their respective fair values.
+
+The Appliances business was acquired as part of the Gillette acquisition and is a stand-alone goodwill reporting unit. The Salon Professional business consists primarily of operations acquired in the Wella acquisition in 2004. These businesses represent some of our more discretionary consumer spending categories. As of June 30, 2012, the Appliances business has remaining goodwill of $586 million, while the Salon Professional business has remaining goodwill of $397 million. As a result of the current year impairments, the estimated fair values of our Appliances and Salon Professional businesses approximate their carrying values. Because purchases in these categories are more discretionary in nature, their operations and underlying fair values were disproportionately impacted by the economic downturn that began in fiscal 2009, which led to a reduction in home and personal grooming appliance purchases and in visits to hair salons. Our valuation of the Appliances and Salon Professional businesses has them returning to sales and earnings growth rates consistent with our long-term business plans. Failure to achieve these business plans or a further deterioration of the macroeconomic conditions could result in a valuation that would trigger an additional impairment of the goodwill and intangible assets of these businesses. For additional details on the timing and results of our goodwill impairment testing, see Note 2 to the Consolidated Financial Statements.
+
+Other than as discussed in the preceding paragraphs, our annual impairment testing for both goodwill and indefinite-lived intangible assets indicated that all other reporting unit and indefinite-lived intangible asset fair values significantly exceeded their respective recorded values. However, future changes in the judgments, assumptions and estimates that are used in our impairment testing for goodwill and indefinite-lived intangible assets, including discount and tax rates or future cash flow projections, could result in significantly different estimates of the fair values. A significant reduction in the estimated fair values could result in additional impairment charges that could materially affect the financial statements in any given year. The recorded value of goodwill and intangible assets from recently impaired businesses and recently acquired businesses are derived from more recent business operating plans and macroeconomic environmental conditions and therefore are more susceptible to an adverse change that could require an impairment charge.
+
+For example, the Gillette intangible and goodwill amounts represent values as of a relatively more recent acquisition date and, as such, the amounts are more susceptible to an impairment risk if business operating results or macroeconomic conditions deteriorate. Gillette indefinite-lived intangible assets represent approximately 90% of the $26.7 billion of indefinite-lived intangible assets at June 30, 2012. Goodwill allocated to stand-alone reporting units consisting primarily of businesses purchased as part of the Gillette acquisition represents 43% of the $53.8 billion of
+
+goodwill at June 30, 2012. This includes the Shave Care and Appliance businesses, which are components of the Grooming segment, and the Batteries business, which is part of the Fabric Care and Home Care segment.
+New Accounting Pronouncements
+
+There are no new accounting pronouncements issued or effective that will have a material impact on our Consolidated Financial Statements. However, we will be presenting Comprehensive Income in a new format beginning with the first quarter of fiscal year 2013, in accordance with new accounting guidance that will eliminate the option of presenting components of other comprehensive earnings as part of the statement of shareholders' equity. For additional details, see Note 1 to the Consolidated Financial Statements.
+OTHER INFORMATION
+Hedging and Derivative Financial Instruments
+As a multinational company with diverse product offerings, we are exposed to market risks, such as changes in interest rates, currency exchange rates and commodity prices. We evaluate exposures on a centralized basis to take advantage of natural exposure correlation and netting. Except within financing operations, we leverage the Company's broadly diversified portfolio of exposures as a natural hedge and prioritize operational hedging activities over financial market instruments. To the extent we choose to further manage volatility associated with the net exposures, we enter into various financial transactions which we account for using the applicable accounting guidance for derivative instruments and hedging activities. These financial transactions are governed by our policies covering acceptable counterparty exposure, instrument types and other hedging practices. Note 5 to the Consolidated Financial Statements includes a detailed discussion of our accounting policies for financial instruments.
+
+Derivative positions can be monitored using techniques including market valuation, sensitivity analysis and value-at-risk modeling. The tests for interest rate, currency rate and commodity derivative positions discussed below are based on the CorporateManager™ value-at-risk model using a one-year horizon and a 95% confidence level. The model incorporates the impact of correlation (the degree to which exposures move together over time) and diversification (from holding multiple currency, commodity and interest rate instruments) and assumes that financial returns are normally distributed. Estimates of volatility and correlations of market factors are drawn from the RiskMetrics™ dataset as of June 30, 2012. In cases where data is unavailable in RiskMetrics™, a reasonable proxy is included.
+Our market risk exposures relative to interest rates, currency rates and commodity prices, as discussed below, have not changed materially versus the previous reporting period. In addition, we are not aware of any facts or circumstances that
+
+
+31
+
+would significantly impact such exposures in the near term.
+Interest Rate Exposure on Financial Instruments. Interest rate swaps are used to hedge exposures to interest rate movement on underlying debt obligations. Certain interest rate swaps denominated in foreign currencies are designated to hedge exposures to currency exchange rate movements on our investments in foreign operations. These currency interest rate swaps are designated as hedges of the Company's foreign net investments.
+Based on our interest rate exposure as of and during the year ended June 30, 2012, including derivative and other instruments sensitive to interest rates, we believe a near-term change in interest rates, at a 95% confidence level based on historical interest rate movements, would not materially affect our financial statements.
+Currency Rate Exposure on Financial Instruments. Because we manufacture and sell products and finance operations in a number of countries throughout the world, we are exposed to the impact on revenue and expenses of movements in currency exchange rates. Corporate policy prescribes the range of allowable hedging activity. To manage the exchange rate risk associated with our financing operations, we primarily use forward contracts with maturities of less than 18 months. In addition, we enter into certain currency swaps with maturities of up to five years to hedge our exposure to exchange rate movements on intercompany financing transactions.
+Based on our currency rate exposure on derivative and other instruments as of and during the year ended June 30, 2012, we believe, at a 95% confidence level based on historical currency rate movements, the impact of a near-term change in currency rates would not materially affect our financial statements.
+Commodity Price Exposure on Financial Instruments. We use raw materials that are subject to price volatility caused by weather, supply conditions, political and economic variables and other unpredictable factors. In addition to fixed price contracts, we may use futures, options and swap contracts to manage the volatility related to the above exposures.
+As of and during the year ended June 30, 2012, we did not have material commodity hedging activity.
+Measures Not Defined By U.S. GAAP
+Our discussion of financial results includes several "non-GAAP" financial measures. We believe these measures provide our investors with additional information about our underlying results and trends, as well as insight to some of the metrics used to evaluate management. When used in MD&A, we have provided the comparable GAAP measure in the discussion. These measures include:
+
+
+
+Organic Sales Growth. Organic sales growth is a non-GAAP measure of sales growth excluding the impacts of acquisitions, divestitures and foreign exchange from year-over-year comparisons. We believe this provides investors with a more complete understanding of underlying sales trends by providing sales growth on a consistent basis. Organic sales is also one of the measures used to evaluate senior management and is a factor in determining their at-risk compensation.
+The following tables provide a numerical reconciliation of organic sales growth to reported net sales growth:
+
+Year ended June 30, 2012
+Net Sales
+Growth
+
+Foreign
+Exchange
+Impact
+
+Acquisition/
+Divestiture
+Impact*
+
+Organic
+Sales
+Growth
+Beauty
+2
+%
+
+0
+ %
+
+0
+ %
+
+2
+%
+Grooming
+1
+%
+
+1
+ %
+
+0
+ %
+
+2
+%
+Health Care
+3
+%
+
+0
+ %
+
+-1
+ %
+
+2
+%
+Fabric Care and Home Care
+3
+%
+
+0
+ %
+
+0
+ %
+
+3
+%
+Baby Care and Family Care
+6
+%
+
+0
+ %
+
+0
+ %
+
+6
+%
+TOTAL P&G
+3
+%
+
+0
+ %
+
+0
+ %
+
+3
+%
+
+
+
+
+
+
+
+
+Year ended June 30, 2011
+Net Sales
+Growth
+
+
+Foreign
+Exchange
+Impact
+
+
+Acquisition/
+Divestiture
+Impact*
+
+
+Organic
+Sales
+Growth
+
+Beauty
+4
+%
+
+-1
+ %
+
+0
+ %
+
+3
+%
+Grooming
+5
+%
+
+0
+ %
+
+0
+ %
+
+5
+%
+Health Care
+5
+%
+
+0
+ %
+
+0
+ %
+
+5
+%
+Fabric Care and Home Care
+4
+%
+
+0
+ %
+
+-2
+ %
+
+2
+%
+Baby Care and Family Care
+6
+%
+
+1
+ %
+
+0
+ %
+
+7
+%
+TOTAL P&G
+5
+%
+
+0
+ %
+
+-1
+ %
+
+4
+%
+
+ * Acquisition/Divestiture Impact includes rounding impacts necessary to reconcile net sales to organic sales.
+
+Core EPS. This is a measure of the Company's diluted net earnings per share from continuing operations excluding certain items that are not judged to be part of the Company's sustainable results or trends. This includes current year impairment charges for goodwill and indefinite lived intangible assets, current year charges related to incremental restructuring charges due to increased focus on productivity and cost savings, a significant benefit in 2011 from the settlement of U.S. tax litigation primarily related to the valuation of technology donations, charges in 2012, 2011 and 2010 related to pending European legal matters, and a 2010 charge related to a tax provision for retiree healthcare subsidy payments in the U.S. healthcare reform legislation.
+
+
+ 32
+
+We do not view these items to be part of our sustainable results. We believe the Core EPS measure provides an important perspective of underlying business trends and results and provides a more comparable measure of year-on-year earnings per share growth. Core EPS is also one of the measures used to evaluate senior management and is a factor in determining their at-risk compensation. The table below provides a reconciliation of reported diluted net earnings per share from continuing operations to Core EPS:
+
+Years ended June 30
+2012
+
+2011
+
+2010
+Diluted Net Earnings Per Share - Continuing Operations
+$
+3.12
+
+
+$
+3.85
+
+
+$
+3.47
+
+Impairment Charges
+0.51
+
+
+—
+
+
+—
+
+Incremental Restructuring Charges
+0.20
+
+
+—
+
+
+—
+
+Settlement from U.S. Tax Litigation
+—
+
+
+(0.08
+)
+
+—
+
+Charges for Pending European Legal Matters
+0.03
+
+
+0.10
+
+
+0.09
+
+Charge for Taxation of Retiree Healthcare Subsidy
+—
+
+
+—
+
+
+0.05
+
+Rounding
+(0.01
+)
+
+—
+
+
+—
+
+CORE EPS
+$
+3.85
+
+
+$
+3.87
+
+
+$
+3.61
+
+Core EPS Growth
+(1
+)%
+
+7
+%
+
+
+Note - All reconciling items are presented net of tax. Tax effects are calculated consistent with the nature of the underlying transaction. The significant adjustment to an income tax reserve was tax expense. There was no tax impact on EPS due to the charges for pending European legal matters.
+Free Cash Flow. Free cash flow is defined as operating cash flow less capital spending. We view free cash flow as an important measure because it is one factor in determining the amount of cash available for dividends and discretionary investment. Free cash flow is also one of the measures used to evaluate senior management and is a factor in determining their at-risk compensation.
+Free Cash Flow Productivity. Free cash flow productivity is defined as the ratio of free cash flow to net earnings. Free cash flow productivity is also one of the measures used to evaluate senior management and is a factor in determining their at-risk compensation.
+The following table provides a numerical reconciliation of free cash flow and free cash flow productivity ($ millions):
+
+
+Operating
+Cash Flow
+Capital
+Spending
+Free
+Cash Flow
+Net
+Earnings
+Free
+Cash Flow
+Productivity
+2012
+$
+13,284
+
+$
+(3,964
+)
+$
+9,320
+
+$
+10,904
+
+85
+%
+2011
+13,330
+
+(3,306
+)
+10,024
+
+11,927
+
+84
+%
+2010
+16,131
+
+(3,067
+)
+13,064
+
+12,846
+
+102
+%
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+The information required by this item is incorporated by reference to the section entitled Other Information under Management's Disclosure and Analysis, and Note 5 of the Consolidated Financial Statements, Risk Management Activities and Fair Value Measurements.

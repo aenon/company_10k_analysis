@@ -1,0 +1,2780 @@
+
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Executive Overview and Outlook
+
+Colgate-Palmolive Company seeks to deliver strong, consistent business results and superior shareholder returns by providing consumers globally with products that make their lives healthier and more enjoyable.
+
+To this end, the Company is tightly focused on two product segments: Oral, Personal and Home Care; and Pet Nutrition. Within these segments, the Company follows a closely defined business strategy to develop and increase market leadership positions in key product categories. These product categories are prioritized based on their capacity to maximize the use of the organization’s core competencies and strong global equities and to deliver sustainable long-term growth.
+
+Operationally, the Company is organized along geographic lines with management teams having responsibility for the business and financial results in each region. The Company competes in more than 200 countries and territories worldwide with established businesses in all regions contributing to the Company’s sales and profitability. Approximately 80% of the Company’s Net sales are generated from markets outside the U.S., with over 50% of the Company’s Net sales coming from emerging markets (which consist of Latin America, Asia (excluding Japan), Africa/Eurasia and Central Europe). This geographic diversity and balance help to reduce the Company’s exposure to business and other risks in any one country or part of the world.
+
+The Oral, Personal and Home Care segment is operated through five reportable operating segments: North America, Latin America, Europe/South Pacific, Asia and Africa/Eurasia, all of which sell to a variety of retail and wholesale customers and distributors. The Company, through Hill’s Pet Nutrition, also competes on a worldwide basis in the pet nutrition market, selling its products principally through authorized pet supply retailers and veterinarians.
+
+On an ongoing basis, management focuses on a variety of key indicators to monitor business health and performance. These indicators include market share, net sales (including volume, pricing and foreign exchange components), organic sales growth (net sales growth excluding the impact of foreign exchange, acquisitions and divestments), gross profit margin, operating profit, net income and earnings per share, as well as measures used to optimize the management of working capital, capital expenditures, cash flow and return on capital. The monitoring of these indicators and the Company’s Code of Conduct and corporate governance practices help to maintain business health and strong internal controls.
+
+To achieve its business and financial objectives, the Company focuses the organization on initiatives to drive and fund growth. The Company seeks to capture significant opportunities for growth by identifying and meeting consumer needs within its core categories, through its focus on innovation and the deployment of valuable consumer and shopper insights in the development of successful new products regionally, which are then rolled out on a global basis. To enhance these efforts, the Company has developed key initiatives to build strong relationships with consumers, dental and veterinary professionals and retail customers. Growth opportunities are greater in those areas of the world in which economic development and rising consumer incomes expand the size and number of markets for the Company’s products.
+
+The investments needed to support growth are developed through continuous, Company-wide initiatives to lower costs and increase effective asset utilization. Through these initiatives, which are referred to as the Company’s funding-the-growth initiatives, the Company seeks to become even more effective and efficient throughout its businesses. These initiatives are designed to reduce costs associated with direct materials, indirect expenses and distribution and logistics, and encompass a wide range of projects, examples of which include raw material substitution, reduction of packaging materials, consolidating suppliers to leverage volumes and increasing manufacturing efficiency through SKU reductions and formulation simplification. The Company also continues to prioritize its investments toward its higher margin businesses, specifically Oral Care, Personal Care and Pet Nutrition.
+
+
+15
+
+
+As disclosed in Part I, Item 1A “Risk Factors,” with approximately 80% of its Net sales generated outside the United States, the Company is exposed to changes in economic conditions and foreign currency exchange rates, as well as political uncertainty in some countries, all of which could impact future operating results. For example, as discussed in detail below, the operating environment in Venezuela is challenging, with economic uncertainty fueled by currency devaluations and high inflation and governmental restrictions in the form of import authorization controls, currency exchange and payment controls, price and profit controls and the possibility of expropriation of property or other resources.
+
+In particular, the Company has been and will continue to be impacted as a result of the significant devaluations of the Venezuelan bolivar fuerte that occurred in 2010 and in February 2013, described in Note 14, Venezuela to the Consolidated Financial Statements. Effective February 9, 2013 the Venezuelan government devalued its currency and the official exchange rate changed from 4.30 to 6.30 Venezuelan bolivares fuerte per dollar. The Company incurred a one-time, pretax loss of $172 ($111 aftertax loss), in the first quarter of 2013 related to the remeasurement of the net monetary assets in the local balance sheet at the date of the devaluation. The Company remeasures the financial statements of its Venezuelan subsidiary (“CP Venezuela”) at the rate at which it expects to remit future dividends. At December 31, 2013, that rate was 6.30. As the local currency operations in Venezuela translated into fewer U.S. dollars, the February 2013 devaluation had and will continue to have an ongoing adverse effect on the Company’s reported results.
+
+In addition, the Venezuelan government continues to impose import authorization controls, currency exchange and payment controls and price controls. Price controls, which became effective on April 1, 2012, affect most products in CP Venezuela’s portfolio and thereby further restrict the Company’s ability to implement price increases, which had been one of the key mechanisms to offset the effects of continuing high inflation and the impact of currency devaluations.
+
+CP Venezuela funds its requirements for imported goods primarily through a combination of U.S. dollars obtained from CADIVI and intercompany borrowings. The amount of U.S. dollars received from CADIVI in 2013 was higher than the amount received in 2012; however, CP Venezuela’s supply of U.S. dollars to fund imports has been limited and sporadic. In the second quarter of 2013, the Venezuelan government introduced a new currency market known as SICAD (Supplementary System for the Administration of Foreign Currency), which is an auction market, in which only companies invited by the Venezuelan government can participate. The SICAD currency market is expected to be accessible to the Company, however the Company was not able to participate in the auctions held through December 31, 2013. CP Venezuela's difficulty in accessing U.S. dollars to support its operations has had and is expected to continue to have an adverse effect on the business. Additionally, at times, production at CP Venezuela has also been negatively impacted by labor issues within the country.
+
+At December 31, 2013, CP Venezuela’s local currency-denominated net monetary asset position, which would be subject to remeasurement in the event of a further devaluation, was approximately $600. This amount does not include $233 of devaluation-protected bonds issued by the Venezuelan government, as these bonds provide protection against devaluations by adjusting the amount of bolivares fuerte received at maturity for any devaluation subsequent to issuance. CP Venezuela’s local currency-denominated non-monetary assets were approximately $335 at December 31, 2013 and included approximately $225 of fixed assets that could be subject to impairment if CP Venezuela continues to be unable to implement price increases to offset the impacts of continued high inflation or further devaluations, or if it does not have sufficient access to U.S. dollars to fund imports. For the year ended December 31, 2013, CP Venezuela represented approximately 4% of the Company’s consolidated Net sales and approximately 3% of the Company’s consolidated Operating profit excluding the impact of the one-time Venezuela devaluation charge and charges related to the 2012 Restructuring Program (discussed below), the competition law matter in France related to the home care and personal care sectors and costs related to the sale of land in Mexico (discussed below).
+
+In late January 2014, the Venezuelan government made several announcements affecting currency exchange and other controls. Although the official exchange rate remains at 6.30 bolivares fuerte per dollar, the government announced that the exchange rate for foreign investments will move to the rate available on the SICAD currency market, which in the last auction was 11.70 bolivares fuerte per dollar. While there is considerable uncertainty as to the nature of transactions that will flow through SICAD and how SICAD will operate in the future, effective with the quarter ending March 31, 2014, the Company expects that the majority of CP Venezuela’s net monetary assets will be remeasured at the SICAD rate since that is the rate the Company now believes, based on the advice of legal counsel, will be applicable for future dividend remittances. In addition, because the official exchange rate remains at 6.30 bolivares fuerte per dollar, the Company currently expects that the $233 million of devaluation-protected bonds issued by the Venezuelan government and held by CP Venezuela will not revalue at the rate available on the SICAD currency market but will remain at the official rate. If the SICAD rate were to remain at 11.70
+
+16
+
+
+during the quarter ending March 31, 2014, the Company estimates it would incur a one-time aftertax loss of approximately $180-$200, or $0.19-$0.21 per diluted common share.
+
+Because the SICAD market is auction-based and auctions are held periodically during each quarter, the exchange rate available through SICAD may vary throughout the year which would cause additional remeasurements of CP Venezuela’s local currency-denominated net monetary assets and further impact CP Venezuela’s ongoing results.
+
+Although, as described above, there is considerable uncertainty with respect to the implementation of the SICAD rate, the Company anticipates that there also will be ongoing impacts primarily related to the translation of the local financial statements and, to a lesser degree, the import of materials at the new exchange rate. While it is still unclear, the Company believes that some of its imports may still qualify for the official rate of 6.30 bolivares fuerte per dollar. Based on this assumption and the SICAD rate at the most recent 11.70 bolivares fuertes per dollar, the Company preliminarily estimates that the ongoing impacts during 2014 would be in the range of $0.11-$0.14 per diluted common share.
+
+As part of the January 2014 announcements, the Venezuelan government also issued a new Law on Fair Pricing, establishing a maximum profit margin of 30%. At this time, it is unclear based on the current regulations how this new law may affect CP Venezuela and its current pricing structure and, as a result, its impact is not included in the range of estimated ongoing impacts outlined above.
+
+The Company’s business in Venezuela, and the Company’s ability to repatriate its earnings, continue to be negatively affected by these difficult conditions and would be further negatively affected by additional devaluations or the imposition of additional or more stringent controls on foreign currency exchange, pricing, payments, profits or imports or other governmental actions or continued or increased labor unrest. The Company continues to actively manage its investment in and exposure to Venezuela.
+
+In the fourth quarter of 2012, the Company commenced a four-year Global Growth and Efficiency Program (the “2012 Restructuring Program”) for sustained growth. The program’s initiatives are expected to help Colgate ensure continued solid worldwide growth in unit volume, organic sales and earnings per share and enhance its global leadership positions in its core businesses. Implementation of the 2012 Restructuring Program, which is expected to be substantially completed by December 31, 2016, is projected to result in cumulative pretax charges, once all phases are approved and implemented, totaling between $1,100 and $1,250 ($775 and $875 aftertax). Savings, substantially all of which are expected to increase future cash flows, are projected to be in the range of $365 to $435 pretax ($275 to $325 aftertax) annually by the fourth year of the program. In 2013 and 2012, the Company incurred aftertax costs of $278 and $70, respectively, associated with the 2012 Restructuring Program. For more information regarding the 2012 Restructuring Program, see “Restructuring and Related Implementation Charges” below.
+
+In 2013 and 2012, the Company also incurred aftertax costs of $12 and $18, respectively, related to the sale of land in Mexico and, in 2012, the Company incurred aftertax costs of $14 associated with various business realignment and other cost-saving initiatives.
+
+On September 13, 2011, the Company’s Mexican subsidiary entered into an agreement to sell to the United States of America the Mexico City site on which its commercial operations, technology center and soap production facility are located. The sale price is payable in three installments, with the final installment due upon the transfer of the property, which is expected to occur in 2014. The Company is re-investing these payments to relocate its soap production to a new state-of-the-art facility to be constructed at its Mission Hills, Mexico site, to relocate its commercial and technology operations within Mexico City and to prepare the existing site for transfer. As a result, the Company expects to make capital improvements and incur costs to exit the site through 2014. These exit costs are primarily related to staff leaving indemnities, accelerated depreciation and demolition to make the site building-ready.
+
+On July 29, 2011, in connection with the Sanex acquisition (discussed below), Colgate sold its non-core laundry detergent business in Colombia to Unilever for $215 resulting in a pretax gain of $207 ($135 aftertax gain). In 2011, this gain was more than offset by pretax costs of $224 ($177 aftertax costs) associated with the implementation of various business realignment and other cost-saving initiatives, the sale of land in Mexico and a competition law matter in France related to a divested detergent business, as discussed in Part I, Item 3 “Legal Proceedings” and Note 13, Commitments and Contingencies to the Consolidated Financial Statements. The business realignment and other cost-saving initiatives included the integration of Sanex, the right-sizing of the Colombia business and the closing of an oral care facility in Mississauga, Canada, and a Hill’s facility in Los Angeles, California.
+
+17
+
+
+On June 20, 2011, the Company, Colgate-Palmolive Europe Sàrl, Unilever N.V. and Unilever PLC (together with Unilever N.V., “Unilever”) finalized the Company’s acquisition from Unilever of the Sanex personal care business in accordance with a Business and Share Sale and Purchase Agreement for an aggregate purchase price of €676 ($966). The acquisition was financed with available cash, proceeds from the sale of the Company’s Euro-denominated investment portfolio and the issuance of commercial paper.
+
+Looking forward, the Company expects global macroeconomic and market conditions to remain highly challenging. While the global marketplace in which the Company operates has always been highly competitive, the Company continues to experience heightened competitive activity in certain markets from local competitors and other large multinational companies, some of which have greater resources than the Company does. Such activities have included more aggressive product claims and marketing challenges, as well as increased promotional spending and geographic expansion. Additionally, the Company continues to experience volatile foreign currency fluctuations and high commodity costs. While the Company has taken, and will continue to take, measures to mitigate the effect of these conditions, should they persist, they could adversely affect the Company’s future results.
+
+The Company believes it is well prepared to meet the challenges ahead due to its strong financial condition, experience operating in challenging environments and continued focus on the Company’s strategic initiatives: engaging to build our brands; innovation for growth; effectiveness and efficiency; and leading to win. This focus, together with the strength of the Company’s global brand names, its broad international presence in both mature and emerging markets and initiatives such as the 2012 Restructuring Program, should position the Company well to increase shareholder value over the long-term.
+
+
+18
+
+
+Results of Operations
+
+Net Sales
+
+Worldwide Net sales were $17,420 in 2013, up 2.0% from 2012, as volume growth of 5.0% and net selling price increases of 1.0% were partially offset by negative foreign exchange of 4.0%. Organic sales (Net sales excluding the impact of foreign exchange, acquisitions and divestments), a non-GAAP financial measure as discussed below, increased 6.0%.
+
+Net sales in the Oral, Personal and Home Care segment were $15,209 in 2013, up 2.0% from 2012, as volume growth of 5.5% and net selling price increases of 0.5% were partially offset by negative foreign exchange of 4.0%. Organic sales in the Oral, Personal and Home Care segment increased 6.0%.
+
+The increase in organic sales in 2013 versus 2012 was driven by an increase in Oral Care sales, with the toothpaste, manual toothbrush and mouthwash categories all contributing to growth. Personal Care and Home Care also contributed to organic sales growth due to strong sales in the bar soap category and the hand dish category, respectively.
+
+The Company’s share of the global toothpaste market was 44.8% on a year-to-date basis and its share of the global manual toothbrush market was 32.9% on a year-to-date basis. Year-to-date market shares in toothpaste were up in Europe/South Pacific, Asia and Africa/Eurasia and down in North America and Latin America versus the year ago period. In the manual toothbrush category, year-to-date market shares were up in North America, Latin America and Europe/South Pacific, and down in Asia and Africa/Eurasia versus the year ago period. For additional information regarding market shares, see “Market Share Information” below.
+
+Net sales for Hill’s Pet Nutrition increased 2.5% in 2013 to $2,211, as volume growth of 1.5% and net selling price increases of 3.5% were partially offset by negative foreign exchange of 2.5%. Organic sales in Hill’s Pet Nutrition increased 5.0% in 2013.
+
+Gains in the Prescription Diet, Advanced Nutrition and Naturals categories contributed to organic sales growth for Hill’s Pet Nutrition.
+
+Worldwide Net sales were $17,085 in 2012, up 2.0% from 2011, as volume growth of 3.0% and net selling price increases of 3.0% were partially offset by negative foreign exchange of 4.0%. Excluding the impact of the divestment of the non-core laundry detergent business in Colombia, volume increased 3.5%. The Sanex business contributed 0.5% to worldwide Net sales and volume growth in 2012. Organic sales increased 6.0% in 2012.
+
+19
+
+
+Gross Profit/Margin
+
+Worldwide Gross profit increased 3% to $10,201 in 2013 from $9,932 in 2012. Gross profit in both periods included the impact of charges related to the 2012 Restructuring Program and costs related to the sale of land in Mexico. Gross profit in 2012 also included the impact of costs associated with various business realignment and other cost-saving initiatives. Excluding the items described above, Gross profit increased to $10,248 in 2013 from $9,963 in 2012, primarily due to sales growth ($195) and Gross profit margin expansion ($90).
+
+Worldwide Gross profit margin increased to 58.6% in 2013 from 58.1% in 2012. Excluding the items described above, Gross profit margin increased by 50 basis points (bps) to 58.8% in 2013. The increase was primarily due to cost savings from the Company’s funding-the-growth initiatives (220 bps) and higher pricing (30 bps), which were partially offset by higher raw and packaging material costs (210 bps) which included foreign exchange transaction costs.
+
+Worldwide Gross profit increased 4% to $9,932 in 2012 from $9,590 in 2011. Gross profit in both periods included the impact of costs associated with various business realignment and other cost-saving initiatives. Gross profit in 2012 also included the impact of charges related to the 2012 Restructuring Program and costs related to the sale of land in Mexico. Excluding the items described above, Gross profit increased to $9,963 in 2012 from $9,634 in 2011, primarily due to sales growth ($207) and Gross profit margin expansion ($122).
+
+Worldwide Gross profit margin increased to 58.1% in 2012 from 57.3% in 2011. Excluding the items described above, Gross profit margin increased by 70 bps to 58.3% in 2012. The increase was primarily due to cost savings from the Company’s funding-the-growth initiatives (190 bps) and higher pricing (120 bps), which were partially offset by higher raw and packaging material costs driven by global commodity cost increases and foreign exchange transaction costs (250 bps).
+
+
+2013
+
+2012
+
+2011
+Gross profit, GAAP
+
+$
+10,201
+
+
+$
+9,932
+
+
+$
+9,590
+
+2012 Restructuring Program
+
+32
+
+
+2
+
+
+—
+
+Costs related to the sale of land in Mexico
+
+15
+
+
+24
+
+
+—
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+5
+
+
+44
+
+Gross profit, non-GAAP
+
+$
+10,248
+
+
+$
+9,963
+
+
+$
+9,634
+
+
+
+
+2013
+
+2012
+
+Basis Point Change
+
+2011
+
+Basis Point Change
+Gross profit margin, GAAP
+
+58.6
+%
+
+58.1
+%
+
+50
+
+57.3
+%
+
+80
+2012 Restructuring Program
+
+0.2
+
+
+—
+
+
+
+
+—
+
+
+
+Costs related to the sale of land in Mexico
+
+—
+
+
+0.2
+
+
+
+
+—
+
+
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+—
+
+
+
+
+0.3
+
+
+
+Gross profit margin, non-GAAP
+
+58.8
+%
+
+58.3
+%
+
+50
+
+57.6
+%
+
+70
+
+
+20
+
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses increased 5% to $6,223 in 2013 from $5,930 in 2012. Selling, general and administrative expenses in both periods included the impact of charges associated with the 2012 Restructuring Program. Selling, general and administrative expenses in 2012 also included costs associated with various business realignment and other cost-saving initiatives. Excluding these items, Selling, general and administrative expenses increased to $6,086 in 2013 from $5,910 in 2012, reflecting increased advertising investment of $99 and higher overhead expenses of $77.
+
+Selling, general and administrative expenses as a percentage of Net sales increased to 35.7% in 2013 from 34.7% in 2012. Excluding the items described above, Selling, general and administrative expenses as a percentage of Net sales were 34.9%, an increase of 30 bps as compared to 2012. This increase in 2013 was driven by increased advertising investment (40 bps) as a percentage of Net sales. In 2013, advertising investment increased 5.5% to $1,891 as compared with $1,792 in 2012 and increased as a percentage of Net sales to 10.9% from 10.5% in 2012.
+
+Selling, general and administrative expenses increased 3% to $5,930 in 2012 from $5,758 in 2011. Selling, general and administrative expenses in both periods included the impact of charges associated with various business realignment and other cost-saving initiatives. Selling, general and administrative expenses in 2012 also included charges related to the 2012 Restructuring Program. Excluding these items, Selling, general and administrative expenses increased to $5,910 in 2012 from $5,748 in 2011, reflecting higher overhead expenses of $104 and increased advertising investment of $58.
+
+Selling, general and administrative expenses as a percentage of Net sales increased to 34.7% in 2012 from 34.4% in 2011. Excluding the items described above, Selling, general and administrative expenses as a percentage of Net sales were 34.6%, an increase of 30 bps as compared to 2011. The 30 bps increase in 2012 was a result of higher overhead expenses (20 bps) and increased advertising investment (10 bps), both as a percentage of Net sales. In 2012, advertising increased 3.3% to $1,792 as compared with $1,734 in 2011 and increased as a percentage of Net sales to 10.5% from 10.4% in 2011.
+
+
+
+2013
+
+2012
+
+2011
+Selling, general and administrative expenses, GAAP
+
+$
+6,223
+
+
+$
+5,930
+
+
+$
+5,758
+
+2012 Restructuring Program
+
+(137
+)
+
+(6
+)
+
+—
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+(14
+)
+
+(10
+)
+Selling, general and administrative expenses, non-GAAP
+
+$
+6,086
+
+
+$
+5,910
+
+
+$
+5,748
+
+
+
+
+2013
+
+2012
+
+Basis Point Change
+
+2011
+
+Basis Point Change
+Selling, general and administrative expenses as a percentage of Net sales, GAAP
+
+35.7
+ %
+
+34.7
+ %
+
+100
+
+34.4
+ %
+
+30
+2012 Restructuring Program
+
+(0.8
+)
+
+—
+
+
+
+
+—
+
+
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+(0.1
+)
+
+
+
+(0.1
+)
+
+
+Selling, general and administrative expenses as a percentage of Net sales, non-GAAP
+
+34.9
+ %
+
+34.6
+ %
+
+30
+
+34.3
+ %
+
+30
+
+
+
+21
+
+
+Other (Income) Expense, Net
+
+Other (income) expense, net was $422, $113 and ($9) in 2013, 2012 and 2011, respectively. The components of Other (income) expense, net are presented below:
+Other (income) expense, net
+
+2013
+
+2012
+
+2011
+Amortization of intangible assets
+
+$
+32
+
+
+$
+31
+
+
+$
+28
+
+2012 Restructuring Program
+
+202
+
+
+81
+
+
+—
+
+Venezuela devaluation charge
+
+172
+
+
+—
+
+
+—
+
+Charges for French competition law matters
+
+23
+
+
+—
+
+
+21
+
+Costs related to the sale of land in Mexico
+
+3
+
+
+—
+
+
+13
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+2
+
+
+136
+
+Gain on sales of non-core product lines
+
+—
+
+
+—
+
+
+(207
+)
+Sanex acquisition transaction costs
+
+—
+
+
+—
+
+
+12
+
+Equity (income)
+
+(5
+)
+
+(7
+)
+
+(6
+)
+Other, net
+
+(5
+)
+
+6
+
+
+(6
+)
+Total Other (income) expense, net
+
+$
+422
+
+
+$
+113
+
+
+$
+(9
+)
+
+Other (income) expense, net was $422 in 2013 as compared to $113 in 2012. In 2013, Other (income) expense, net included costs associated with the 2012 Restructuring Program, a one-time charge for the impact of the devaluation in Venezuela, a charge for a competition law matter in France related to the home care and personal care sectors and costs related to the sale of land in Mexico. In 2012, Other (income) expense, net included costs associated with the 2012 Restructuring Program and costs associated with various business realignment and other cost-saving initiatives.
+
+Other (income) expense, net was $113 in 2012 as compared to ($9) in 2011. In 2011, Other (income) expense, net included costs associated with various business realignment and other cost-saving initiatives, costs related to the sale of land in Mexico, the gain on the sale of the non-core laundry detergent business in Colombia and a charge for a competition law matter in France related to a divested detergent business. In 2011, Other (income) expense, net also included $12 in transaction costs related to the Sanex acquisition in 2011.
+
+Excluding these items in all years, as applicable, Other (income) expense, net was $22 in 2013, $30 in 2012 and $28 in 2011.
+
+
+2013
+
+2012
+
+2011
+Other (income) expense, net, GAAP
+
+$
+422
+
+
+$
+113
+
+
+$
+(9
+)
+2012 Restructuring Program
+
+(202
+)
+
+(81
+)
+
+—
+
+Venezuela devaluation charge
+
+(172
+)
+
+—
+
+
+—
+
+Charges for French competition law matters
+
+(23
+)
+
+—
+
+
+(21
+)
+Costs related to the sale of land in Mexico
+
+(3
+)
+
+—
+
+
+(13
+)
+Business realignment and other cost-saving initiatives
+
+—
+
+
+(2
+)
+
+(136
+)
+Gain on sales of non-core product lines
+
+—
+
+
+—
+
+
+207
+
+Other (income) expense, net, non-GAAP
+
+$
+22
+
+
+$
+30
+
+
+$
+28
+
+
+
+22
+
+
+Operating Profit
+
+In 2013, Operating profit decreased 9% to $3,556 from $3,889 in 2012. In 2012, Operating profit increased 1% to $3,889 from $3,841 in 2011.
+
+In 2013 and 2012, Operating profit included the impact of costs associated with the 2012 Restructuring Program. In 2013, 2012 and 2011, Operating profit included the impact of costs related to the sale of land in Mexico. In 2013, Operating profit also included a one-time charge for the impact of the devaluation in Venezuela and a charge for a competition law matter in France related to the home care and personal care sectors. In 2012 and 2011, Operating profit also included the impact of costs associated with various business realignment and other cost-saving initiatives. In 2011, Operating profit also included the gain on the sale of the non-core laundry detergent business in Colombia and a charge for a competition law matter in France related to a divested detergent business. Excluding these items in all years, as applicable, Operating profit increased 3% in 2013 and 4% in 2012, primarily due to sales growth and higher Gross profit margin.
+
+Operating profit margin was 20.4% in 2013, compared with 22.8% in 2012 and 23.0% in 2011. Excluding the items described above, Operating profit margin increased 30 bps to 23.8% in 2013 compared to 23.5% in 2012. This increase is mainly due to an increase in Gross profit (50 bps), partially offset by an increase in Selling, general and administrative expenses (30 bps), both as a percentage of Net sales.
+
+Excluding the items described above, Operating profit margin increased 40 bps in 2012 compared to 2011, primarily due to an increase in Gross profit (70 bps), partially offset by an increase in Selling, general and administrative expenses (30 bps), both as a percentage of Net sales.
+
+
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Operating profit, GAAP
+
+$
+3,556
+
+
+$
+3,889
+
+
+(9
+)%
+
+$
+3,841
+
+
+1
+%
+2012 Restructuring Program
+
+371
+
+
+89
+
+
+
+
+—
+
+
+
+Venezuela devaluation charge
+
+172
+
+
+—
+
+
+
+
+—
+
+
+
+Charges for French competition law matters
+
+23
+
+
+—
+
+
+
+
+21
+
+
+
+Costs related to the sale of land in Mexico
+
+18
+
+
+24
+
+
+
+
+13
+
+
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+21
+
+
+
+
+190
+
+
+
+Gain on sales of non-core product lines
+
+—
+
+
+—
+
+
+
+
+(207
+)
+
+
+Operating profit, non-GAAP
+
+$
+4,140
+
+
+$
+4,023
+
+
+3
+ %
+
+$
+3,858
+
+
+4
+%
+
+
+
+
+2013
+
+2012
+
+Basis Point Change
+
+2011
+
+Basis Point Change
+Operating profit margin, GAAP
+
+20.4
+%
+
+22.8
+%
+
+(240
+)
+
+23.0
+ %
+
+(20
+)
+2012 Restructuring Program
+
+2.2
+
+
+0.5
+
+
+
+
+—
+
+
+
+Venezuela devaluation charge
+
+1.0
+
+
+—
+
+
+
+
+—
+
+
+
+Charges for French competition law matters
+
+0.1
+
+
+—
+
+
+
+
+0.1
+
+
+
+Costs related to the sale of land in Mexico
+
+0.1
+
+
+0.1
+
+
+
+
+0.1
+
+
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+0.1
+
+
+
+
+1.1
+
+
+
+Gain on sales of non-core product lines
+
+—
+
+
+—
+
+
+
+
+(1.2
+)
+
+
+Operating profit margin, non-GAAP
+
+23.8
+%
+
+23.5
+%
+
+30
+
+
+23.1
+ %
+
+40
+
+
+
+
+
+23
+
+
+Interest (Income) Expense, Net
+
+Interest (income) expense, net was ($9) in 2013, compared with $15 in 2012 and $52 in 2011. The decrease in Interest (income) expense, net from 2012 to 2013 and from 2011 to 2012 was primarily due to an increase in interest income on investments held outside of the U.S., partially offset by an increase in interest expense due to higher debt balances.
+
+Income Taxes
+
+The effective income tax rate was 32.4% in 2013, 32.1% in 2012 and 32.6% in 2011.  As reflected in the table below, the non-GAAP effective income tax rate was 31.7% in 2013 and 31.8% in 2012 and 2011.
+
+
+2013
+
+2012
+
+2011
+Effective income tax rate, GAAP
+
+32.4
+ %
+
+32.1
+ %
+
+32.6
+ %
+2012 Restructuring Program
+
+(0.7
+)
+
+(0.3
+)
+
+—
+
+Venezuela devaluation charge
+
+0.2
+
+
+—
+
+
+—
+
+Charges for French competition law matters
+
+(0.2
+)
+
+—
+
+
+(0.2
+)
+Costs related to the sale of land in Mexico
+
+—
+
+
+—
+
+
+—
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+—
+
+
+(0.5
+)
+Gain on sales of non-core product lines
+
+—
+
+
+—
+
+
+(0.1
+)
+Effective income tax rate, non-GAAP
+
+31.7
+ %
+
+31.8
+ %
+
+31.8
+ %
+
+The effective income tax rate in all years benefited from global tax planning initiatives.
+
+Net Income attributable to Colgate-Palmolive Company
+
+Net income attributable to Colgate-Palmolive Company was $2,241, or $2.38 per share on a diluted basis, in 2013 compared to $2,472, or $2.57 per share on a diluted basis, in 2012 and $2,431, or $2.47 per share on a diluted basis, in 2011. In 2013 and 2012, Net income attributable to Colgate-Palmolive Company included aftertax charges related to the 2012 Restructuring Program. In 2013, 2012 and 2011, Net income attributable to Colgate-Palmolive Company included aftertax costs related to the sale of land in Mexico. In 2013, Net income attributable to Colgate-Palmolive Company also included a one-time aftertax charge for the impact of the devaluation in Venezuela and a charge for a competition law matter in France related to the home care and personal care sectors. In 2012 and 2011, Net income attributable to Colgate-Palmolive Company also included aftertax costs associated with various business realignment and other cost-saving initiatives. In 2011, Net income attributable to Colgate-Palmolive Company also included an aftertax gain on the sale of the non-core laundry detergent business in Colombia and aftertax costs associated with a competition law matter in France related to a divested detergent business.
+
+Excluding the items described above in all applicable years, Net income attributable to Colgate-Palmolive Company increased 4% to $2,665 in 2013 and Earnings per common share, diluted increased 6% to $2.84. Net income attributable to Colgate-Palmolive Company increased to $2,574 in 2012, as compared to $2,473 in 2011, and Earnings per common share, diluted increased 7% to $2.68 in 2012.
+
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Net income attributable to Colgate-Palmolive Company, GAAP
+
+$
+2,241
+
+
+$
+2,472
+
+
+(9
+)%
+
+$
+2,431
+
+
+2
+%
+2012 Restructuring Program
+
+278
+
+
+70
+
+
+
+
+—
+
+
+
+Venezuela devaluation charge
+
+111
+
+
+—
+
+
+
+
+—
+
+
+
+Charges for French competition law matters
+
+23
+
+
+—
+
+
+
+
+21
+
+
+
+Costs related to the sale of land in Mexico
+
+12
+
+
+18
+
+
+
+
+9
+
+
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+14
+
+
+
+
+147
+
+
+
+Gain on sales of non-core product lines
+
+—
+
+
+—
+
+
+
+
+(135
+)
+
+
+Net income attributable to Colgate-Palmolive Company, non-GAAP
+
+$
+2,665
+
+
+$
+2,574
+
+
+4
+ %
+
+$
+2,473
+
+
+4
+%
+
+
+24
+
+
+
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Earnings per common share, diluted, GAAP
+
+$
+2.38
+
+
+$
+2.57
+
+
+(7
+)%
+
+$
+2.47
+
+
+4
+%
+2012 Restructuring Program
+
+0.30
+
+
+0.07
+
+
+
+
+—
+
+
+
+Venezuela devaluation charge
+
+0.12
+
+
+—
+
+
+
+
+—
+
+
+
+Charges for French competition law matters
+
+0.03
+
+
+—
+
+
+
+
+0.02
+
+
+
+Costs related to the sale of land in Mexico
+
+0.01
+
+
+0.02
+
+
+
+
+0.01
+
+
+
+Business realignment and other cost-saving initiatives
+
+—
+
+
+0.02
+
+
+
+
+0.15
+
+
+
+Gain on sales of non-core product lines
+
+—
+
+
+—
+
+
+
+
+(0.14
+)
+
+
+Earnings per common share, diluted, non-GAAP
+
+$
+2.84
+
+
+$
+2.68
+
+
+6
+ %
+
+$
+2.51
+
+
+7
+%
+
+Segment Results
+
+The Company markets its products in over 200 countries and territories throughout the world in two distinct product segments: Oral, Personal and Home Care; and Pet Nutrition.  The Company evaluates segment performance based on several factors, including Operating profit. The Company uses Operating profit as a measure of the operating segment performance because it excludes the impact of corporate-driven decisions related to interest expense and income taxes.
+
+Oral, Personal and Home Care
+
+Effective January 1, 2013, the Company realigned the geographic structure of its North America and Latin America reportable operating segments. In order to better leverage Latin America management’s knowledge of emerging market consumers to accelerate growth in the region, management responsibility for the Puerto Rico and CARICOM operations was transferred from North America to Latin America management. Accordingly, commencing with the Company’s financial reporting for the quarter ended March 31, 2013, the results of the Puerto Rico and CARICOM operations, which represent less than 1% of the Company’s global business are reported in the Latin America reportable operating segment. Previously, Puerto Rico and CARICOM represented approximately 4% of Net sales of North America and now represent approximately 3% of Net sales of Latin America.
+
+In addition, given the growing importance of the Company’s operations in emerging markets, effective with the quarter ended September 30 2013, the Company began to separately report financial information for its Asia and Africa/Eurasia operating segments. Previously, the financial information for these operating segments was aggregated into the Greater Asia/Africa reportable operating segment.
+
+The Company has recast its historical geographic segment information to conform to the new reporting structure which results in modification to the geographic components of the Oral, Personal and Home Care segment, with no impact on historical Company results overall.
+
+North America
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Net sales
+$
+3,072
+
+
+$
+2,971
+
+
+3.5
+
+%
+
+$
+2,878
+
+
+3.5
+
+%
+Operating profit
+$
+927
+
+
+$
+810
+
+
+14
+
+%
+
+$
+768
+
+
+5
+
+%
+% of Net sales
+30.2
+%
+
+27.3
+%
+
+290
+
+bps
+
+26.7
+%
+
+60
+
+bps
+
+Net sales in North America increased 3.5% in 2013 to $3,072, driven by volume growth of 3.5%, while net selling prices and foreign exchange were flat. Organic sales in North America increased 3.5% in 2013.
+
+The increase in organic sales in North America in 2013 versus 2012 was driven by an increase in Oral Care sales with the toothpaste, manual toothbrush and mouthwash categories all contributing to growth. Home Care sales also contributed to organic sales growth due to strong sales in the hand dish and fabric softener categories.
+
+
+25
+
+
+Net sales in North America increased 3.5% in 2012 to $2,971, driven by volume growth of 2.0% and net selling price increases of 1.5%. Organic sales in North America increased 3.5% in 2012.
+
+Operating profit in North America increased 14% in 2013 to $927, or 290 bps to 30.2% of Net sales. This increase in Operating profit as a percentage of Net sales was primarily due to an increase in Gross profit (230 bps) and a decrease in Selling, general and administrative expenses (40 bps), both as a percentage of Net sales. This increase in Gross profit was mainly driven by cost savings from the Company’s funding-the-growth initiatives (200 bps). This decrease in Selling, general and administrative expenses was due to lower overhead costs (70 bps), which were partially offset by increased advertising investment (30 bps).
+
+Operating profit in North America increased 5% in 2012 to $810, or 60 bps to 27.3% of Net sales. This increase in Operating profit as a percentage of Net sales was driven by an increase in Gross profit, which was partially offset by an increase in Selling, general and administrative expenses, both as a percentage of Net sales. This increase in Gross profit was driven by higher pricing and cost savings from the Company’s funding-the-growth initiatives, which were partially offset by higher raw and packaging material costs. This increase in Selling, general and administrative expenses was due to increased advertising investment.
+
+Latin America
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Net sales
+$
+5,012
+
+
+$
+5,032
+
+
+(0.5
+)
+%
+
+$
+4,895
+
+
+3.0
+
+%
+Operating profit
+$
+1,385
+
+
+$
+1,454
+
+
+(5
+)
+%
+
+$
+1,437
+
+
+1
+
+%
+% of Net sales
+27.6
+%
+
+28.9
+%
+
+(130
+)
+bps
+
+29.4
+%
+
+(50
+)
+bps
+
+Net sales in Latin America decreased 0.5% in 2013 to $5,012, as volume growth of 5.5% and net selling price increases of 3.5% were more than offset by negative foreign exchange of 9.5%. Organic sales in Latin America increased 9.5% in 2013. Volume gains were led by Brazil, Venezuela, Mexico and Central America.
+
+The increase in organic sales in Latin America in 2013 versus 2012 was driven by an increase in Oral Care sales, with the toothpaste, manual toothbrush and mouthwash categories all contributing to growth. Personal Care also contributed to organic sales growth with gains in the bar soap category. Strong sales in the hand dish and fabric softener categories contributed to organic sales growth in Home Care.
+
+Net sales in Latin America increased 3.0% in 2012 to $5,032, driven by volume growth of 2.5% and net selling price increases of 6.5%, which were largely offset by negative foreign exchange of 6.0%. Organic sales in Latin America increased 10.5% in 2012. Excluding the impact of the divested non-core laundry detergent business in Colombia, volume increased 4.0% in 2012.
+
+Operating profit in Latin America decreased 5% in 2013 to $1,385, or 130 bps to 27.6% of Net sales. This decrease in Operating profit as a percentage of Net sales was primarily due to a decrease in Gross profit (110 bps) and an increase in Selling, general and administrative expenses (10 bps), both as a percentage of Net sales. This decrease in Gross profit was due to higher costs (490 bps), primarily in Venezuela, which were partially offset by cost savings from the Company’s funding-the-growth initiatives (260 bps) and benefits of pricing as noted above. This increase in Selling, general and administrative expenses was driven by increased advertising investment (10 bps).
+
+While Operating profit in Latin America increased 1% in 2012 to $1,454, it decreased 50 bps as a percentage of Net sales to 28.9%. This decrease in Operating profit as a percentage of Net sales was due to an increase in Selling, general and administrative expenses and Other (income) expense, net, which were partially offset by an increase in Gross profit, all as a percentage of Net sales. This increase in Gross profit was driven by higher pricing and cost savings from the Company’s funding-the-growth initiatives, partially offset by higher raw and packaging material costs, negative foreign exchange transaction costs and costs associated with the difficult economic and labor environment in Venezuela, which likewise impacted unit volume in that country. This increase in Selling, general and administrative expenses and Other (income) expense, net was primarily due to inflation and foreign exchange.
+
+26
+
+
+Europe/South Pacific
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Net sales
+$
+3,396
+
+
+$
+3,417
+
+
+(0.5
+)
+%
+
+$
+3,508
+
+
+(2.5
+)
+%
+Operating profit
+$
+805
+
+
+$
+747
+
+
+8
+
+%
+
+$
+715
+
+
+4
+
+%
+% of Net sales
+23.7
+%
+
+21.9
+%
+
+180
+
+bps
+
+20.4
+%
+
+150
+
+bps
+
+Net sales in Europe/South Pacific decreased 0.5% in 2013 to $3,396, as volume growth of 1.5% and positive foreign exchange of 0.5% were more than offset by net selling price decreases of 2.5%. Organic sales in Europe/South Pacific decreased by 0.5% in 2013. Volume gains in Australia and the United Kingdom were partially offset by volume declines in Greece and France.
+
+Organic sales in Europe/South Pacific decreased in 2013 versus 2012 as higher Oral Care sales were more than offset by declines in Personal Care and Home Care sales. The toothpaste, manual toothbrush and mouthwash categories all contributed to the increase in Oral Care sales. Declines in sales in the shower gel and underarm protection categories contributed to the decrease in Personal Care sales. The decrease in Home Care sales was due to sales declines in the hand dish and the liquid cleaners categories.
+
+Net sales in Europe/South Pacific decreased 2.5% in 2012 to $3,417, as volume growth of 4.0% was more than offset by negative foreign exchange of 5.0% and net selling price decreases of 1.5%. The Sanex business contributed 3.0% to Europe/South Pacific sales and volume growth in 2012. Organic sales in Europe/South Pacific decreased by 0.5% in 2012.
+
+Operating profit in Europe/South Pacific increased 8% in 2013 to $805, or 180 bps to 23.7% of Net sales. The increase in Operating profit was due to an increase in Gross profit (200 bps), which was partially offset by an increase in Selling, general and administrative expenses (10 bps), both as a percentage of Net sales. This increase in Gross profit was driven by cost savings from the Company’s funding-the-growth initiatives (220 bps), which were partially offset by lower pricing as noted above. This increase in Selling, general and administrative expenses was primarily driven by increased advertising investment (90 bps), which was partially offset by lower overhead expenses (80 bps).
+
+Operating profit in Europe/South Pacific increased 4% in 2012 to $747, or 150 bps to 21.9% of Net sales. The increase in Operating profit was due to an increase in Gross profit and a decrease in Selling, general and administrative expenses, both as a percentage of Net sales. This increase in Gross profit was driven by savings from the Company’s funding-the-growth initiatives, which were partially offset by lower pricing and higher raw and packaging material costs. This decrease in Selling, general and administrative expenses was primarily driven by lower overhead expenses, which were partially offset by increased advertising investment.
+
+
+27
+
+
+Asia
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Net sales
+$
+2,472
+
+
+$
+2,264
+
+
+9.0
+
+%
+
+$
+2,074
+
+
+9.0
+
+%
+Operating profit
+$
+698
+
+
+$
+619
+
+
+13
+
+%
+
+$
+565
+
+
+10
+
+%
+% of Net sales
+28.2
+%
+
+27.3
+%
+
+90
+
+bps
+
+27.2
+%
+
+10
+
+bps
+
+Net sales in Asia increased 9.0% in 2013 to $2,472, driven by volume growth of 10.5% as net selling prices were flat and foreign exchange was negative 1.5%. Organic sales in Asia grew 10.5% in 2013. Volume gains were led by the Greater China region, India, Thailand and the Philippines.
+
+The increase in organic sales in 2013 versus 2012 was driven by an increase in Oral Care sales with the toothpaste and manual toothbrush categories contributing to growth. Personal Care sales also contributed to organic sales growth with gains in the shampoo category.
+
+Net sales in Asia increased 9.0% in 2012 to $2,264, driven by volume growth of 7.5% and net selling price increases of 4.5%, which were partially offset by negative foreign exchange of 3.0%. Organic sales in Asia grew 12.0% in 2012.
+
+Operating profit in Asia increased 13% in 2013 to $698, or 90 bps to 28.2% of Net sales. This increase in Operating profit was due to an increase in Gross profit (140 bps), which was partially offset by an increase in Selling, general and administrative expenses (50 bps), both as a percentage of Net sales. This increase in Gross profit was due to cost savings from the Company’s funding-the-growth initiatives (220 bps), partially offset by higher raw and packaging material costs (90 bps), which included foreign exchange transaction costs. This increase in Selling, general and administrative expenses was driven by increased advertising investment (50 bps).
+
+Operating profit in Asia increased 10% in 2012 to $619, or 10 bps to 27.3% of Net sales. This increase in Operating profit was due to an increase in Gross profit, which was partially offset by an increase in Selling, general and administrative expenses, both as a percentage of Net sales. This increase in Gross profit was mainly driven by cost savings from the Company’s funding-the-growth initiatives and the benefits of pricing as noted above, partially offset by higher raw and packaging material costs. This increase in Selling, general and administrative expenses was driven by increased investment in customer development initiatives and increased advertising investment.
+
+Africa/Eurasia
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Net sales
+$
+1,257
+
+
+$
+1,241
+
+
+1.5
+
+%
+
+$
+1,207
+
+
+3.0
+
+%
+Operating profit
+$
+268
+
+
+$
+267
+
+
+—
+
+%
+
+$
+242
+
+
+10
+
+%
+% of Net sales
+21.3
+%
+
+21.5
+%
+
+(20
+)
+bps
+
+20.0
+%
+
+150
+
+bps
+
+Net sales in Africa/Eurasia increased 1.5% in 2013 to $1,257, driven by volume growth of 8.0%, which was partially offset by net selling price decreases of 1.0% and negative foreign exchange of 5.5%. Organic sales in Africa/Eurasia grew 7.0% in 2013. Volume gains were led by Turkey, Russia, the Sub Saharan Africa region and the Central Asia/Caucasus region.
+
+The increase in organic sales in 2013 versus 2012 was driven by an increase in Oral Care sales due to strong sales in the toothpaste and manual toothbrush categories. Personal Care sales also contributed to organic sales growth with gains in the shower gel category.
+
+Net sales in Africa/Eurasia increased 3.0% in 2012 to $1,241, driven by volume growth of 7.0% and net selling price increases of 3.0%, which were partially offset by negative foreign exchange of 7.0%. The Sanex business contributed 1.0% to Africa/Eurasia sales and volume growth in 2012. Organic sales in Africa/Eurasia grew 9.0% in 2012.
+
+28
+
+
+While Operating profit in Africa/Eurasia was flat in 2013 at $268, it decreased 20 bps as a percentage of Net sales to 21.3%. This decrease in Operating profit as a percentage of Net sales was due to increases in Selling, general and administrative expenses (110 bps) and Other (income) expense, net (30 bps), which were partially offset by an increase in Gross profit (120 bps), all as a percentage of Net sales. This increase in Gross profit was mainly driven by cost savings from the Company’s funding-the-growth initiatives (110 bps), which were partially offset by lower pricing as noted above. This increase in Selling, general and administrative expenses was driven by higher overhead expenses (70 bps) and increased advertising investment (40 bps).
+
+Operating profit in Africa/Eurasia increased 10% in 2012 to $267, or 150 bps to 21.5% of Net sales. This increase in Operating profit was due to an increase in Gross profit and a decrease in Selling, general and administrative expenses, both as a percentage of Net sales. This increase in Gross profit was mainly driven by cost savings from the Company’s funding-the-growth initiatives and the benefits of pricing as noted above, partially offset by higher raw and packaging material costs, which included foreign exchange transaction costs. This decrease in Selling, general and administrative expenses was driven by decreased advertising investment, which were partially offset by higher overhead expenses.
+
+Hill’s Pet Nutrition
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Net sales
+$
+2,211
+
+
+$
+2,160
+
+
+2.5
+
+%
+
+$
+2,172
+
+
+(0.5
+)
+%
+Operating profit
+$
+563
+
+
+$
+589
+
+
+(4
+)
+%
+
+$
+560
+
+
+5
+
+%
+% of Net sales
+25.5
+%
+
+27.3
+%
+
+(180
+)
+bps
+
+25.8
+%
+
+150
+
+bps
+
+Net sales for Hill’s Pet Nutrition increased 2.5% in 2013 to $2,211, driven by volume growth of 1.5% and net selling price increases of 3.5%, which were partially offset by negative foreign exchange of 2.5%. Organic sales in Hill’s Pet Nutrition increased 5.0% in 2013. Volume gains were led by the United States and Russia and were partially offset by volume declines in Japan. The volume declines in Japan were attributable to a continued contraction in the market as well as heightened competition.
+
+The increase in organic sales in 2013 versus 2012 was driven by continued growth in the Prescription Diet category. The Advanced Nutrition and the Naturals categories also contributed to organic sales growth.
+
+Net sales for Hill’s Pet Nutrition decreased 0.5% in 2012 to $2,160, as a volume decline of 2.5% and negative foreign exchange of 2.0% were partially offset by net selling price increases of 4.0%. Organic sales in Hill’s Pet Nutrition increased 1.5% in 2012.
+
+Operating profit in Hill’s Pet Nutrition decreased 4% in 2013 to $563, or 180 bps to 25.5% of Net sales. This decrease in Operating profit as a percentage of Net sales was due to a decrease in Gross profit (190 bps) and an increase in Selling, general and administrative expenses (20 bps), both as a percentage of Net sales. This decrease in Gross profit was primarily driven by higher raw and packaging material costs (470 bps), due in part to formulation changes and foreign exchange transaction costs, which were partially offset by cost savings from the Company’s funding-the-growth initiatives (200 bps) and the benefits of pricing as noted above. This increase in Selling, general and administrative expenses was primarily due to increased investment in customer development initiatives (20 bps) and increased advertising investment (10 bps).
+
+Operating profit in Hill’s Pet Nutrition increased 5% in 2012 to $589, or 150 bps to 27.3% of Net sales. This increase in Operating profit as a percentage of Net sales was due to an increase in Gross profit, which was partially offset by an increase in Selling, general and administrative expenses, both as a percentage of Net sales. This increase in Gross profit was driven by higher pricing and cost savings from the Company’s funding-the-growth initiatives, which were partially offset by higher raw and packaging material costs. This increase in Selling, general and administrative expenses was primarily due to increased advertising investment.
+
+
+29
+
+
+Corporate
+
+2013
+
+2012
+
+% Change
+
+2011
+
+% Change
+Operating profit (loss)
+$
+(1,090
+)
+
+$
+(597
+)
+
+83
+%
+
+$
+(446
+)
+
+34
+%
+
+Corporate operations include Corporate overhead costs, research and development costs, stock-based compensation expense related to stock options and restricted stock unit awards, restructuring and related implementation costs and gains and losses on sales of non-core product lines. The components of Operating profit (loss) for the Corporate segment are presented as follows:
+
+
+2013
+
+2012
+
+2011
+2012 Restructuring Program
+
+$
+(371
+)
+
+$
+(89
+)
+
+$
+—
+
+Venezuela devaluation charge
+
+(172
+)
+
+—
+
+
+—
+
+Charges for French competition law matters
+
+(23
+)
+
+—
+
+
+(21
+)
+Costs related to the sale of land in Mexico
+
+(18
+)
+
+(24
+)
+
+(13
+)
+Business realignment and other cost-saving initiatives
+
+—
+
+
+(21
+)
+
+(190
+)
+Gain on sales of non-core product lines
+
+—
+
+
+—
+
+
+207
+
+Sanex acquisition transaction costs
+
+—
+
+
+—
+
+
+(12
+)
+Corporate overhead costs and other, net
+
+(506
+)
+
+(463
+)
+
+(417
+)
+Total Corporate Operating profit (loss)
+
+$
+(1,090
+)
+
+$
+(597
+)
+
+$
+(446
+)
+
+
+Restructuring and Related Implementation Charges
+
+2012 Restructuring Program
+
+In the fourth quarter of 2012, the Company commenced a four-year Global Growth and Efficiency Program (the 2012 Restructuring Program) for sustained growth. The program’s initiatives are expected to help Colgate ensure continued solid worldwide growth in unit volume, organic sales and earnings per share and enhance its global leadership positions in its core businesses.
+
+The 2012 Restructuring Program is expected to produce significant benefits in the Company’s long-term business performance. The major objectives of the program include:
+
+▪
+Becoming even stronger on the ground through the continued evolution and expansion of proven global and regional commercial capabilities, which have already been successfully implemented in a number of the Company’s operations around the world.
+▪
+Simplifying and standardizing how work gets done by increasing technology-enabled collaboration and taking advantage of global data and analytic capabilities, leading to smarter and faster decisions.
+▪
+Reducing structural costs to continue to increase the Company’s gross and operating profit.
+▪
+Building on Colgate’s current position of strength to enhance its leading market share positions worldwide and ensure sustained sales and earnings growth.
+
+Implementation of the 2012 Restructuring Program is projected to result in cumulative pretax charges, once all phases are approved and implemented, totaling between $1,100 and $1,250 ($775 and $875 aftertax), which are currently estimated to be comprised of the following categories: Employee-Related Costs, including severance, pension and other termination benefits (50%); asset-related costs, primarily Incremental Depreciation and Asset Impairments (15%); and Other charges, which include contract termination costs, consisting primarily of implementation-related charges resulting directly from exit activities (20%) and the implementation of new strategies (15%). Anticipated pretax charges for 2014 are expected to amount to approximately $275 to $325 ($200 to $230 aftertax). Over the course of the 2012 Restructuring Program, it is estimated that approximately 75% of the charges will result in cash expenditures.
+
+It is expected that the cumulative pretax charges, once all projects are approved and implemented, will relate to initiatives undertaken in North America (15%), Europe/South Pacific (20%), Latin America (5%), Asia (5%), Africa/Eurasia
+
+30
+
+
+(5%), Hill’s Pet Nutrition (10%) and Corporate (40%), which includes substantially all of the costs related to the implementation of new strategies, noted above, on a global basis. It is expected that by the end of 2016, the 2012 Restructuring Program will reduce the Company’s global employee workforce by approximately 6% from the 2012 level of approximately 38,000.
+
+Savings, substantially all of which are expected to increase future cash flows, are projected to be in the range of $365 to $435 pretax ($275 to $325 aftertax) annually by the fourth year of the program. Savings in 2014 should approximate $105 to $125 ($90 to $110 aftertax).
+
+Initiatives under the program are focused on the following three areas:
+▪
+Expanding Commercial Hubs - Building on the success of this structure already implemented in several divisions, continuing to cluster single-country subsidiaries into more efficient regional hubs, in order to drive smarter and faster decision making, strengthen capabilities available on the ground and improve cost structure.
+▪
+Extending Shared Business Services and Streamlining Global Functions - Implementing the Company’s shared service organizational model, already successful in Europe, in all regions of the world. Initially focused on finance and accounting, these shared services will be expanded to additional functional areas to streamline global functions.
+▪
+Optimizing Global Supply Chain and Facilities - Continuing to optimize manufacturing efficiencies, global warehouse networks and office locations for greater efficiency, lower cost and speed to bring innovation to market.
+
+For the years ended December 31, 2013 and 2012, restructuring and implementation-related charges are reflected in the Consolidated Statements of Income as follows:
+
+
+2013
+
+2012
+Cost of sales
+
+$
+32
+
+
+$
+2
+
+Selling, general and administrative expenses
+
+137
+
+
+6
+
+Other (income) expense, net
+
+202
+
+
+81
+
+Total 2012 Restructuring Program charges, pretax
+
+$
+371
+
+
+$
+89
+
+
+
+
+
+
+Total 2012 Restructuring Program charges, aftertax
+
+$
+278
+
+
+$
+70
+
+
+Restructuring and related implementation charges in the preceding table are recorded in the Corporate segment as these initiatives are predominantly centrally directed and controlled and are not included in internal measures of segment operating performance. Total charges for the 2012 Restructuring Program for the year ended December 31, 2013 relate to initiatives undertaken in North America (11%), Europe/South Pacific (28%), Latin America (4%), Africa/Eurasia (7%), Hill’s Pet Nutrition (8%) and Corporate (42%). Total charges for the 2012 Restructuring Program for the year ended December 31, 2012 relate to initiatives undertaken in North America (2%), Europe/South Pacific (55%), Africa/Eurasia (2%), Hill’s Pet Nutrition (3%) and Corporate (38%). Total program-to-date accumulated charges for the 2012 Restructuring Program relate to initiatives undertaken in North America (10%), Europe/South Pacific (33%), Latin America (3%), Africa/Eurasia (6%), Hill’s Pet Nutrition (7%) and Corporate (41%).
+
+Since the inception of the 2012 Restructuring Program in the fourth quarter of 2012, the Company has incurred pretax cumulative charges of $460 ($348 aftertax) in connection with the implementation of various projects as follows:
+
+Cumulative Charges
+
+as of December 31, 2013
+Employee-Related Costs
+$
+222
+
+Incremental Depreciation
+26
+
+Asset Impairments
+1
+
+Other
+211
+
+Total
+$
+460
+
+
+
+31
+
+
+The majority of costs incurred since inception relate to the following projects: restructuring how the Company provides retirement benefits to its U.S.-based employees by shifting them from the Company’s defined benefit retirement plans to the Company’s defined contribution plan; the closing of the Morristown, New Jersey personal care facility; the simplification and streamlining of the Company’s research and development capabilities and oral care supply chain, both in Europe; other exit costs related to office consolidation; and the restructuring of certain commercial operations in advance of implementing an overall hubbing strategy.
+
+The following table summarizes the activity for the restructuring and implementation-related charges discussed above and the related accruals:
+
+
+
+Employee-Related
+Costs
+
+
+Incremental
+Depreciation
+
+
+Asset
+Impairments
+
+
+Other
+
+
+Total
+
+Balance at January 1, 2012
+
+$
+—
+
+
+$
+—
+
+
+$
+—
+
+
+$
+—
+
+
+$
+—
+
+Charges
+
+78
+
+
+—
+
+
+—
+
+
+11
+
+
+89
+
+Cash payments
+
+(1
+)
+
+—
+
+
+—
+
+
+(4
+)
+
+(5
+)
+Charges against assets
+
+—
+
+
+—
+
+
+—
+
+
+—
+
+
+—
+
+Foreign exchange
+
+7
+
+
+—
+
+
+—
+
+
+(2
+)
+
+5
+
+Balance at December 31, 2012
+
+$
+84
+
+
+$
+—
+
+
+$
+—
+
+
+$
+5
+
+
+$
+89
+
+Charges
+
+144
+
+
+26
+
+
+1
+
+
+200
+
+
+371
+
+Cash payments
+
+(97
+)
+
+—
+
+
+—
+
+
+(72
+)
+
+(169
+)
+Charges against assets
+
+(17
+)
+
+(26
+)
+
+(1
+)
+
+—
+
+
+(44
+)
+Foreign exchange
+
+2
+
+
+—
+
+
+—
+
+
+—
+
+
+2
+
+Other
+
+—
+
+
+—
+
+
+—
+
+
+(91
+)
+
+(91
+)
+Balance at December 31, 2013
+
+$
+116
+
+
+$
+—
+
+
+$
+—
+
+
+$
+42
+
+
+$
+158
+
+
+Employee-related costs primarily include severance and other termination benefits and are calculated based on long-standing benefit practices, local statutory requirements and, in certain cases, voluntary termination arrangements. Employee-related costs also include pension and other retiree benefit enhancements amounting to $17 for the year ended December 31, 2013 which are reflected as Charges against assets within Employee-related costs in the preceding tables, as the corresponding balance sheet amounts are reflected as a reduction of pension assets or an increase in pension and other retiree benefit liabilities (see Note 10, Retirement Plans and Other Retiree Benefits).
+
+Incremental depreciation is recorded to reflect changes in useful lives and estimated residual values for long-lived assets that will be taken out of service prior to the end of their normal service period. Asset impairments are recorded to write down assets held for sale or disposal to their fair value based on amounts expected to be realized. Charges against assets within Asset impairments are net of cash proceeds pertaining to the sale of certain assets.
+
+Other charges consist primarily of charges resulting directly from exit activities and the implementation of new strategies as a result of the 2012 Restructuring Program. These charges for the years ended December 31, 2013 and 2012 included third-party incremental costs related to the development and implementation of new business and strategic initiatives of $50 and $8, respectively, and contract termination costs and charges resulting directly from exit activities of $34 and $3, respectively, directly related to the 2012 Restructuring Program. These charges were expensed as incurred. Also included in Other charges for the year ended December 31, 2013 are other exit costs of $25 related to office space consolidation and a curtailment charge of $91 related to changes to the Company’s U.S. defined benefit retirement plans (see Note 10, Retirement Plans and Other Retiree Benefits).
+
+Non-GAAP Financial Measures
+
+This Annual Report on Form 10-K discusses organic sales growth (Net sales growth excluding the impact of foreign exchange, acquisitions and divestments) (non-GAAP). Management believes this measure provides investors with useful supplemental information regarding the Company’s underlying sales trends by presenting sales growth excluding the external factor of foreign exchange, as well as the impact of acquisitions and divestments. A reconciliation of organic sales growth to Net sales growth for the years ended December 31, 2013 and 2012 is provided below.
+
+32
+
+
+Worldwide Gross profit, Gross profit margin, Selling, general and administrative expenses, Selling, general and administrative expenses as a percentage of Net sales, Other (income) expense, net, Operating profit, Operating profit margin, effective tax rate, Net income attributable to Colgate-Palmolive Company and Earnings per share on a diluted basis are discussed in this Annual Report on Form 10-K both on a GAAP basis and, as applicable, excluding the impacts of charges related to the 2012 Restructuring Program, the one-time charge resulting from the Venezuela devaluation, a charge for the competition law matter in France related to the home care and personal care sectors, a charge for the competition law matter in France related to a divested detergent business, costs related to the sale of land in Mexico, costs associated with various business realignment and other cost-saving initiatives and the gain on the sale of the non-core laundry detergent business in Colombia (non-GAAP). Management believes these non-GAAP financial measures provide investors with useful supplemental information regarding the performance of the Company’s ongoing operations. A reconciliation of each of these non-GAAP financial measures to the most directly comparable GAAP financial measures for the years ended December 31, 2013 and 2012 is presented within the applicable section of Results of Operations.
+
+The Company uses the above financial measures internally in its budgeting process and as a factor in determining compensation. While the Company believes that these non-GAAP financial measures are useful in evaluating the Company’s business, this information should be considered as supplemental in nature and is not meant to be considered in isolation or as a substitute for the related financial information prepared in accordance with GAAP. In addition, these non-GAAP financial measures may not be the same as similar measures presented by other companies.
+
+The following tables provide a quantitative reconciliation of organic sales growth to Net sales growth for each of the years ended December 31, 2013 and 2012 versus the prior year:
+
+Year ended December 31, 2013
+Organic
+Sales Growth
+(Non-GAAP)
+Foreign
+Exchange
+Impact
+Acquisitions and Divestments
+Impact
+Net Sales Growth
+(GAAP)
+Oral, Personal and Home Care
+
+
+
+
+North America
+3.5%
+—%
+—%
+3.5%
+Latin America
+9.5%
+(9.5)%
+(0.5)%
+(0.5)%
+Europe/South Pacific
+(0.5)%
+0.5%
+(0.5)%
+(0.5)%
+Asia
+10.5%
+(1.5)%
+—%
+9.0%
+Africa/Eurasia
+7.0%
+(5.5)%
+—%
+1.5%
+Total Oral, Personal and Home Care
+6.0%
+(4.0)%
+—%
+2.0%
+Pet Nutrition
+5.0%
+(2.5)%
+—%
+2.5%
+Total Company
+6.0%
+(4.0)%
+—%
+2.0%
+Year ended December 31, 2012
+Organic
+Sales Growth
+(Non-GAAP)
+Foreign
+Exchange
+Impact
+Acquisitions and Divestments
+Impact
+Net Sales Growth
+(GAAP)
+Oral, Personal and Home Care
+
+
+
+
+North America
+3.5%
+—%
+—%
+3.5%
+Latin America
+10.5%
+(6.0)%
+(1.5)%
+3.0%
+Europe/South Pacific
+(0.5)%
+(5.0)%
+3.0%
+(2.5)%
+Asia
+12.0%
+(3.0)%
+—%
+9.0%
+Africa/Eurasia
+9.0%
+(7.0)%
+1.0%
+3.0%
+Total Oral, Personal and Home Care
+6.5%
+(4.5)%
+0.5%
+2.5%
+Pet Nutrition
+1.5%
+(2.0)%
+—%
+(0.5)%
+Total Company
+6.0%
+(4.0)%
+—%
+2.0%
+
+
+33
+
+
+Liquidity and Capital Resources
+
+The Company expects cash flow from operations and debt issuances will be sufficient to meet foreseeable business operating and recurring cash needs (including for debt service, dividends, capital expenditures, costs related to the 2012 Restructuring Program and stock repurchases). The Company believes its strong cash generation and financial position should continue to allow it broad access to global credit and capital markets.
+
+Cash Flow
+
+Net cash provided by operations was $3,204 in 2013, compared to $3,196 in 2012 and $2,896 in 2011. Net cash provided by operations for 2013 increased as strong operating earnings and a continued tight focus on working capital were partially offset by higher cash spending related to the 2012 Restructuring Program. The increase in 2012 as compared to 2011 was primarily due to higher operating earnings, lower voluntary benefit plan contributions and decreased working capital, partially offset by higher income tax payments and payment of the fine in the previously disclosed French competition law matter.
+
+The Company defines working capital as the difference between current assets (excluding Cash and cash equivalents and marketable securities, the latter of which is reported in Other current assets) and current liabilities (excluding short-term debt). The Company’s working capital as a percentage of Net sales was 0.7% in both 2013 and 2012.
+
+Approximately 75% of total projected program charges related to the 2012 Restructuring Program, currently estimated between $1,100 and $1,250 ($775 and $875 aftertax), are expected to result in cash expenditures. Savings are currently projected to be in the range of $365 to $435 ($275 to $325 aftertax) annually by the fourth year of the program, substantially all of which are expected to increase future cash flows. The anticipated charges for 2014 are expected to amount to approximately $275 to $325 ($200 to $230 aftertax) and savings in 2014 should approximate $105 to $125 ($90 to $110 aftertax). It is anticipated that cash requirements for the 2012 Restructuring Program will be funded from operating cash flows. Substantially all of the restructuring accrual at December 31, 2013 is expected to be paid before year end 2014.
+
+Investing activities used $890 of cash in 2013, compared to $865 and $1,213 during 2012 and 2011, respectively. Purchases of marketable securities and investments decreased in 2013 to $505 from $545 in 2012 primarily due to a decrease in purchases of investments by the Company’s subsidiary in Venezuela of local currency denominated fixed interest rate bonds issued by the Venezuelan government, partially offset by an increase of the Company’s investments through other foreign subsidiaries. In 2012, the Company acquired the remaining interest in Tom’s of Maine for $18. In 2011, the Company’s Mexican subsidiary entered into an agreement to sell the Mexico City site on which its commercial operations, technology center and soap production facility are located. During 2011 and 2012, the Company received the first and second installments of $24 and $36, respectively, related to the sale of land in Mexico. The final installment of $60 is due upon transfer of the property, which is expected to occur in 2014. In 2011, the Company also acquired the Sanex business for $966. The Company sold its non-core laundry detergent business in Colombia in 2011 for $215 ($135 aftertax gain). Capital expenditures were $670, $565 and $537 for 2013, 2012 and 2011, respectively. The Company continues to focus its capital spending on projects that are expected to yield high aftertax returns. Capital expenditures for 2014 are expected to remain at an annual rate of approximately 4.5% of Net sales, which is higher than the historical rate of approximately 3.5% primarily due to the 2012 Restructuring Program.
+
+Financing activities used $2,142 of cash during 2013 compared to $2,301 and $1,242 during 2012 and 2011, respectively. The decrease in cash used in 2013 as compared to 2012 was primarily due to a lower level of share repurchases, partially offset by higher dividends paid and lower proceeds from exercises of stock options. The increase in 2012 was primarily due to lower net proceeds from the issuance of debt, an increase in dividends paid in 2012, and higher share repurchase costs, partially offset by higher proceeds from exercises of stock options.
+
+Long-term debt, including the current portion, increased to $5,644 as of December 31, 2013, as compared to $5,176 as of December 31, 2012 and total debt increased to $5,657 as of December 31, 2013 as compared to $5,230 as of December 31, 2012. During the fourth quarter of 2013, the Company issued $300 of five-year notes at a fixed rate of 1.50% and $82 of forty-year notes at a variable rate. During the second quarter of 2013, the Company issued $400 of five-year notes at a fixed rate of 0.90% and $400 of ten-year notes at a fixed rate of 2.10%. During the third quarter of 2012, the Company issued $500 of ten-year notes at a fixed rate of 1.95% and during the second quarter of 2012, the Company issued $500 of ten-year notes at a fixed rate of 2.30%. During the fourth quarter of 2011, the Company issued $300 of three-year notes at a fixed rate of 0.6%, $400 of five-year notes at a fixed rate of 1.3% and $300 of ten-year notes at a fixed rate of 2.45%. During the second quarter of 2011, the Company issued $250 of three-year notes at a fixed rate of 1.25% and $250 of six-year notes at a fixed rate of 2.625%. The
+
+34
+
+
+debt issuances in 2013, 2012 and 2011 were U.S. dollar denominated and were under the Company’s shelf registration statement. Proceeds from the debt issuances in the second and fourth quarters of 2013 were used to reduce commercial paper borrowings, which were used by the Company for general corporate purposes. Proceeds from the debt issuance in the second quarter of 2013 were also used to repay and retire $250 of notes due in 2013. Proceeds from the debt issuances in the second and third quarters of 2012 and second quarter of 2011 were used to reduce commercial paper borrowings, which were used by the Company for general corporate purposes. Proceeds from the debt issuances in the fourth quarter of 2011 were used to reduce commercial paper borrowings, which were used by the Company for general corporate purposes, and to repay outstanding indebtedness under a €408 credit facility.
+
+At December 31, 2013, the Company had access to unused domestic and foreign lines of credit of $2,444 (including under the two facilities discussed below) and could also issue medium-term notes pursuant to an effective shelf registration statement. In November 2011, the Company entered into a five-year revolving credit facility with a capacity of $1,850 with a syndicate of banks. This facility was extended for an additional year in 2012 and again in 2013 and will expire in November 2018. The Company also has the ability to draw $145 from a revolving credit facility that expires in November 2014. Commitment fees related to the credit facilities are not material.
+
+Domestic and foreign commercial paper outstanding was $0 and $443 as of December 31, 2013 and 2012, respectively. The average daily balances outstanding for commercial paper in 2013 and 2012 were $1,736 and $1,562, respectively. The Company classifies commercial paper and certain current maturities of notes payable as long-term debt when it has the intent and ability to refinance such obligations on a long-term basis, including, if necessary, by utilizing its line of credit that expires in 2018.
+
+The following is a summary of the Company’s commercial paper and global short-term borrowings as of December 31, 2013 and 2012:
+
+
+2013
+
+2012
+
+
+Weighted Average Interest Rate
+
+Maturities
+
+Outstanding
+
+Weighted Average
+Interest Rate
+
+Maturities
+
+Outstanding
+Payable to banks
+
+2.2
+%
+
+2014
+
+$
+13
+
+
+1.0
+%
+
+2013
+
+$
+54
+
+Commercial paper
+
+
+
+
+
+
+—
+
+
+0.1
+%
+
+2013
+
+443
+
+Total
+
+
+
+
+
+$
+13
+
+
+
+
+
+
+$
+497
+
+
+Certain of the facilities with respect to the Company’s bank borrowings contain financial and other covenants as well as cross-default provisions. Noncompliance with these requirements could ultimately result in the acceleration of amounts owed. The Company is in full compliance with all such requirements and believes the likelihood of noncompliance is remote. See Note 6, Long-Term Debt and Credit Facilities to the Consolidated Financial Statements for further information about the Company’s long-term debt and credit facilities.
+
+On March 7, 2013, the Board approved a two-for-one stock split of the Company’s common stock to be effected through a 100% stock dividend (the “2013 Stock Split”). The record date for the two-for-one stock split was the close of business on April 23, 2013 and the share distribution occurred on May 15, 2013. The Board authorized that the number of shares remaining under the 2011 Program (defined below) as of May 15, 2013 be increased by 100% as a result of the two-for-one stock split. All per share amounts and numbers of shares outstanding in the Consolidated Financial Statements and Notes to the Consolidated Financial Statements are presented on a post-split basis. Refer to Note 8, Capital Stock and Stock-Based Compensation Plans to the Consolidated Financial Statements for additional information.
+
+Dividend payments in 2013 were $1,382, an increase from $1,277 in 2012 and $1,203 in 2011. Common stock dividend payments increased to $1.33 per share in 2013 from $1.22 per share in 2012 and $1.14 per share in 2011. In the first quarter of 2013, the Company’s Board of Directors increased the quarterly common stock cash dividend to $0.34 per share from $0.31 per share, effective in the second quarter of 2013.
+
+The Company repurchases shares of its common stock in the open market and in private transactions to maintain its targeted capital structure and to fulfill certain requirements of its compensation and benefit plans. The share repurchase program approved by the Board of Directors on September 8, 2011 (the “2011 Program”) authorized the repurchase of up to 50 million shares of the Company’s common stock. The Board also has authorized share repurchases on an ongoing basis to fulfill certain requirements of the Company’s compensation and benefit programs.
+
+35
+
+
+Aggregate share repurchases in 2013, adjusted for the 2013 Stock Split, consisted of 24.6 million common shares under the 2011 Program and 1 million common shares to fulfill the requirements of compensation and benefit plans, for a total purchase price of $1,521. Aggregate repurchases in 2012, adjusted for the 2013 Stock Split, consisted of 37.6 million common shares under the 2011 Program and 1.2 million common shares to fulfill the requirements of compensation and benefit plans, for a total purchase price of $1,943. Aggregate repurchases in 2011, adjusted for the 2013 Stock Split, consisted of 40.8 million common shares under both the 2011 Program and a previously authorized repurchase program, and 1.8 million common shares to fulfill the requirements of compensation and benefit plans, for a total purchase price of $1,806.
+
+Cash and cash equivalents increased $78 during 2013 to $962 at December 31, 2013, compared to $884 at December 31, 2012, most of which ($865 and $861, respectively) were held by the Company’s foreign subsidiaries. These amounts include $114 and $170 at December 31, 2013 and 2012, respectively, which are subject to currency exchange controls in Venezuela, limiting the total amount of Cash and cash equivalents held by the Company’s foreign subsidiaries that can be repatriated at any particular point in time. The Company regularly assesses its cash needs and the available sources to fund these needs and, as part of this assessment, the Company determines the amount of foreign earnings it intends to repatriate to help fund its domestic cash needs and provides applicable U.S. income and foreign withholding taxes on such earnings.
+
+As of December 31, 2013, the Company had approximately $4,700 of undistributed earnings of foreign subsidiaries for which no U.S. income or foreign withholding taxes have been provided as the Company does not currently anticipate a need to repatriate these earnings. These earnings have been and currently are considered to be indefinitely reinvested outside of the U.S. and, therefore, are not subject to such taxes. Should these earnings be repatriated in the future, they would be subject to applicable U.S. income and foreign withholding taxes. Determining the tax liability that would arise if these earnings were repatriated is not practicable.
+
+The following represents the scheduled maturities of the Company’s contractual obligations as of December 31, 2013:
+
+
+
+
+Payments Due by Period
+
+
+Total
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+Thereafter
+Long-term debt including current portion
+
+$
+5,644
+
+
+$
+895
+
+
+$
+491
+
+
+$
+255
+
+
+$
+664
+
+
+$
+695
+
+
+$
+2,644
+
+Net cash interest payments on long-term debt(1)
+
+564
+
+
+90
+
+
+81
+
+
+66
+
+
+62
+
+
+44
+
+
+221
+
+Leases
+
+1,102
+
+
+196
+
+
+172
+
+
+138
+
+
+126
+
+
+121
+
+
+349
+
+Purchase obligations(2)
+
+800
+
+
+530
+
+
+143
+
+
+119
+
+
+8
+
+
+—
+
+
+—
+
+Total
+
+$
+8,110
+
+
+$
+1,711
+
+
+$
+887
+
+
+$
+578
+
+
+$
+860
+
+
+$
+860
+
+
+$
+3,214
+
+_______
+(1)
+Includes the net interest payments on fixed and variable rate debt and associated interest rate swaps. Interest payments associated with floating rate instruments are based on management’s best estimate of projected interest rates for the remaining term of variable rate debt.
+(2)
+The Company had outstanding contractual obligations with suppliers at the end of 2013 for the purchase of raw, packaging and other materials and services in the normal course of business. These purchase obligation amounts represent only those items which are based on agreements that are legally binding and that specify minimum quantity, price and term and do not represent total anticipated purchases.
+
+Long-term liabilities associated with the Company’s postretirement plans are excluded from the table above due to the uncertainty of the timing of these cash disbursements. The amount and timing of cash funding related to these benefit plans will generally depend on local regulatory requirements, various economic assumptions (the most significant of which are detailed in “Critical Accounting Policies and Use of Estimates” below) and voluntary Company contributions. Based on current information, the Company is not required to make a mandatory contribution to its qualified U.S. pension plan in 2014. Management does not expect to make a voluntary contribution to the U.S. pension plans for the year ending December 31, 2014. In addition, total benefit payments to be paid to participants for the year ending December 31, 2014 from the Company’s assets is estimated to be approximately $98.
+
+Additionally, liabilities for unrecognized income tax benefits are excluded from the table above as the Company is unable to reasonably predict the ultimate amount or timing of a settlement of such liabilities.  See Note 11, Income Taxes to the Consolidated Financial Statements for more information.
+
+
+36
+
+
+As more fully described in Part I, Item 3 “Legal Proceedings” and Note 13, Commitments and Contingencies to the Consolidated Financial Statements, the Company is contingently liable with respect to lawsuits, environmental matters, taxes and other matters arising in the ordinary course of business.
+
+Off-Balance Sheet Arrangements
+
+The Company does not have off-balance sheet financing or unconsolidated special purpose entities.
+
+Managing Foreign Currency, Interest Rate, Commodity Price and Credit Risk Exposure
+
+The Company is exposed to market risk from foreign currency exchange rates, interest rates and commodity price fluctuations. Volatility relating to these exposures is managed on a global basis by utilizing a number of techniques, including working capital management, selling price increases, selective borrowings in local currencies and entering into selective derivative instrument transactions, issued with standard features, in accordance with the Company’s treasury and risk management policies. The Company’s treasury and risk management policies prohibit the use of derivatives for speculative purposes and leveraged derivatives for any purpose.
+
+The sensitivity of our financial instruments to market fluctuations is discussed below. See Note 2, Summary of Significant Accounting Policies and Note 7, Fair Value Measurements and Financial Instruments to the Consolidated Financial Statements for further discussion of derivatives and hedging policies and fair value measurements.
+
+Foreign Exchange Risk
+
+As the Company markets its products in over 200 countries and territories, it is exposed to currency fluctuations related to manufacturing and selling its products in currencies other than the U.S. dollar. The Company manages its foreign currency exposures through a combination of cost-containment measures, sourcing strategies, selling price increases and the hedging of certain costs in an effort to minimize the impact on earnings of foreign currency rate movements. See the “Results of Operations” section above for discussion of the foreign exchange impact on Net sales in each operating segment.
+
+The assets and liabilities of foreign subsidiaries, other than those operating in highly inflationary environments, are translated into U.S. dollars at year-end exchange rates with resulting translation gains and losses accumulated in a separate component of shareholders’ equity. Income and expense items are translated into U.S. dollars at average rates of exchange prevailing during the year.
+
+For subsidiaries operating in highly inflationary environments (currently, Venezuela), inventories, prepaid expenses, goodwill and property, plant and equipment are remeasured at their historical exchange rates, while other assets and liabilities are remeasured at year-end exchange rates. Remeasurement adjustments for these operations are included in Net income attributable to Colgate-Palmolive Company.
+
+The Company primarily utilizes foreign currency contracts, including forward, option and swap contracts, local currency deposits and local currency borrowings to hedge portions of its exposures relating to foreign currency purchases, assets and liabilities created in the normal course of business and the net investment in certain foreign subsidiaries. The duration of foreign currency contracts generally does not exceed 12 months and the contracts are valued using observable market rates.
+
+The Company’s foreign currency forward contracts that qualify for cash flow hedge accounting resulted in net unrealized gains of $5 and $1 at December 31, 2013 and 2012, respectively. Changes in the fair value of cash flow hedges are recorded in Other comprehensive income (loss) and are reclassified into earnings in the same period or periods during which the underlying hedged transaction is recognized in earnings. At the end of 2013, an unfavorable 10% change in exchange rates would have resulted in a net unrealized loss of $33.
+
+Interest Rate Risk
+
+The Company manages its mix of fixed and floating rate debt against its target with debt issuances and by entering into interest rate swaps in order to mitigate fluctuations in earnings and cash flows that may result from interest rate volatility. The notional amount, interest payment and maturity date of the swaps generally match the principal, interest payment and maturity date of the related debt, and the swaps are valued using observable benchmark rates.
+
+
+37
+
+
+Based on year-end 2013 variable rate debt levels, a 1% increase in interest rates would have increased Interest (income) expense, net by $5 in 2013.
+
+Commodity Price Risk
+
+The Company is exposed to price volatility related to raw materials used in production, such as resins, pulp, essential oils, tallow, tropical oils, poultry, corn and soybeans. The Company manages its raw material exposures through a combination of cost containment measures, ongoing productivity initiatives and the limited use of commodity hedging contracts. Futures contracts are used on a limited basis, primarily in the Hill’s Pet Nutrition segment, to manage volatility related to anticipated raw material inventory purchases of certain traded commodities.
+
+The Company’s open commodity derivative contracts, which qualify for cash flow hedge accounting, resulted in net unrealized gains of $0 and $1 at December 31, 2013 and 2012, respectively. At the end of 2013, an unfavorable 10% change in commodity futures prices would have resulted in a net unrealized loss of $1.
+
+Credit Risk
+
+The Company is exposed to the risk of credit loss in the event of nonperformance by counterparties to financial instrument contracts; however, nonperformance is considered unlikely and any nonperformance is unlikely to be material as it is the Company’s policy to contract with diverse, credit-worthy counterparties based upon both strong credit ratings and other credit considerations.
+
+Recent Accounting Pronouncements
+
+In July 2013, the FASB issued ASU No. 2013-11 “Presentation of an Unrecognized Tax Benefit When a Net Operating Loss Carryforward, a Similar Tax Loss, or a Tax Credit Carryforward Exists.” The new guidance is effective on a prospective basis for fiscal years beginning after December 15, 2013 and interim periods within those years. This new guidance is not expected to have a material impact on the Company’s financial position or results of operations.
+
+Critical Accounting Policies and Use of Estimates
+
+The preparation of financial statements requires management to use judgment and make estimates. The level of uncertainty in estimates and assumptions increases with the length of time until the underlying transactions are completed. Actual results could ultimately differ from those estimates. The accounting policies that are most critical in the preparation of the Company’s Consolidated Financial Statements are those that are both important to the presentation of the Consolidated Financial Statements and require significant or complex judgments and estimates on the part of management. The Company’s critical accounting policies are reviewed periodically with the Audit Committee of the Board of Directors.
+
+In certain instances, accounting principles generally accepted in the United States of America allow for the selection of alternative accounting methods. The Company’s significant policies that involve the selection of alternative methods are accounting for shipping and handling costs and inventories.
+
+▪
+Shipping and handling costs may be reported as either a component of Cost of sales or Selling, general and administrative expenses. The Company reports such costs, primarily related to warehousing and outbound freight, in the Consolidated Statements of Income as a component of Selling, general and administrative expenses. Accordingly, the Company’s Gross profit margin is not comparable with the gross profit margin of those companies that include shipping and handling charges in cost of sales. If such costs had been included in Cost of sales, Gross profit margin would have decreased by 750 bps, from 58.6% to 51.1% in 2013 and decreased by 740 bps and 750 bps in 2012 and 2011, respectively, with no impact on reported earnings.
+
+▪
+The Company accounts for inventories using both the first-in, first-out (“FIFO”) method (80% of inventories) and the last-in, first-out (“LIFO”) method (20% of inventories). There would have been no material impact on reported earnings for 2013, 2012 or 2011 had all inventories been accounted for under the FIFO method.
+
+
+38
+
+
+The areas of accounting that involve significant or complex judgments and estimates are pensions and other retiree benefit cost assumptions, stock-based compensation, asset impairments, uncertain tax positions, tax valuation allowances and legal and other contingency reserves.
+
+▪
+In pension accounting, the most significant actuarial assumptions are the discount rate and the long-term rate of return on plan assets. The discount rate used to measure the benefit obligation for U.S. defined benefit plans was 4.96%, 4.14% and 4.90% as of December 31, 2013, 2012 and 2011, respectively. The discount rate used to measure the benefit obligation for other U.S. postretirement plans was 5.24%, 4.32% and 5.26% as of December 31, 2013, 2012 and 2011, respectively. Discount rates used for the U.S. and international defined benefit and other postretirement plans are based on a yield curve constructed from a portfolio of high-quality bonds for which the timing and amount of cash outflows approximate the estimated payouts of the plans. The assumed long-term rate of return on plan assets for U.S. plans was 6.80% as of December 31, 2013, 7.30% as of December 31, 2012 and 7.75% as of December 31, 2011. In determining the long-term rate of return, the Company considers the nature of the plans’ investments and the historical rate of return.
+
+Average annual rates of return for the U.S. plans for the most recent 1-year, 5-year, 10-year, 15-year and 25-year periods were 9%, 11%, 7%, 6%, and 8%, respectively. In addition, the current assumed rate of return for the U.S. plans is based upon the nature of the plans' investments with a target asset allocation of approximately 53% in fixed income securities, 27% in equity securities and 20% in real estate and other investments. As the funded status of the plans improved in 2013, the Company reallocated a portion of the assets of the U.S. plans from equity securities to fixed income securities and other investments. A 1% change in the assumed rate of return on plan assets of the U.S. pension plans would impact future Net income attributable to Colgate-Palmolive Company by approximately $11. A 1% change in the discount rate for the U.S. pension plans would impact future Net income attributable to Colgate-Palmolive Company by approximately $3. A third assumption is the long-term rate of compensation increase, a change in which would partially offset the impact of a change in either the discount rate or the long-term rate of return. This rate was 3.50% as of December 31, 2013, 3.50% as of December 31, 2012 and 4.00% as of December 31, 2011. Refer to Note 10, Retirement Plans and Other Retiree Benefits to the Consolidated Financial Statements for further discussion of the Company’s pension and other postretirement plans.
+
+▪
+The assumption requiring the most judgment in accounting for other postretirement benefits is the medical cost trend rate. The Company reviews external data and its own historical trends for health care costs to determine the medical cost trend rate. The assumed rate of increase for the U.S. postretirement benefit plans is 7.0% for 2014, declining to 5.0% by 2020 and remaining at 5.0% for the years thereafter. The effect on the total of service and interest cost components of a 1% increase in the assumed long-term medical cost trend rate would decrease Net income attributable to Colgate-Palmolive Company by $6.
+
+▪
+The Company recognizes the cost of employee services received in exchange for awards of equity instruments, such as stock options and restricted stock units, based on the fair value of those awards at the date of grant. The Company uses the Black-Scholes-Merton (“Black-Scholes”) option pricing model to determine the fair value of stock option awards. The weighted-average estimated fair value of each stock option granted for the year ended December 31, 2013 was $7.41. The Black-Scholes model uses various assumptions to determine the fair value of options. These assumptions include the expected term of options, expected volatility, risk-free interest rate and expected dividend yield. While these assumptions do not require significant judgment, as the significant inputs are determined from historical experience or independent third-party sources, changes in these inputs could result in significant changes in fair value.  A one-year change in term would result in a change in fair value of approximately 8%. A 1% change in volatility would change fair value by approximately 6%.
+
+▪
+Goodwill and indefinite life intangible assets, such as the Company’s global brands, are subject to impairment tests at least annually. The Company performs either a quantitative or qualitative assessment to determine the fair value of its reporting units for goodwill and fair value of its indefinite life intangible assets. The asset impairment analysis performed for both goodwill and indefinite life intangible assets requires several estimates, including future cash flows consistent with management’s strategic plans, sales growth rates, foreign exchange rates and the selection of a discount rate. Qualitative factors, in addition to those quantitative measures discussed above, include assessments of general macroeconomic conditions, industry-specific considerations and historical financial performance.
+
+
+39
+
+
+The estimated fair value of the Company’s intangible assets substantially exceeds the recorded book value, except for the intangible assets acquired in the Sanex acquisition in 2011, which were recorded at fair value. The estimated fair value of the Company’s reporting units also substantially exceeds the recorded book value. Therefore, it is not reasonably likely that significant changes in these estimates would occur that would result in an impairment charge related to these assets. Asset impairment analysis related to certain fixed assets in connection with the 2012 Restructuring Program requires management’s best estimate of net realizable values. Asset impairment analysis related to the fixed assets of the Company’s subsidiary in Venezuela requires management’s best estimate of future exchange rates between the U.S. dollar and the bolivar fuerte, the rate of inflation in Venezuela and the timing and amount of future selling price increases for products sold in Venezuela.
+
+▪
+The recognition and measurement of uncertain tax positions involves consideration of the amounts and probabilities of various outcomes that could be realized upon ultimate resolution.
+
+▪
+Tax valuation allowances are established to reduce deferred tax assets such as tax loss carryforwards, to net realizable value. Factors considered in estimating net realizable value include historical results by tax jurisdiction, carryforward periods, income tax strategies and forecasted taxable income.
+
+▪
+Legal and other contingency reserves are based on management’s assessment of the risk of potential loss, which includes consultation with outside legal counsel and other advisors. Such assessments are reviewed each period and revised based on current facts and circumstances, if necessary. While it is possible that the Company’s cash flows and results of operations in a particular quarter or year could be materially affected by the impact of such contingencies, it is the opinion of management that these matters will not have a material impact on the Company’s financial position, or its ongoing results of operations or cash flows. Refer to Note 13, Commitments and Contingencies to the Consolidated Financial Statements for further discussion of the Company’s contingencies.
+
+The Company generates revenue through the sale of well-known consumer products to trade customers under established trading terms. While the recognition of revenue and receivables requires the use of estimates, there is a short time frame (typically less than 60 days) between the shipment of product and cash receipt, thereby reducing the level of uncertainty in these estimates. Refer to Note 2, Summary of Significant Accounting Policies to the Consolidated Financial Statements for further description of the Company’s significant accounting policies.
+
+Market Share Information
+
+Management uses market share information as a key indicator to monitor business health and performance. References to market share in this Annual Report on Form 10-K are based on a combination of consumption and market share data provided by third-party vendors, primarily Nielsen, and internal estimates. All market share references represent the percentage of the dollar value of sales of our products, relative to all product sales in the category in the countries in which the Company competes and purchases data.
+Market share data is subject to limitations on the availability of up-to-date information. We believe that the third-party vendors we use to provide data are reliable, but we have not verified the accuracy or completeness of the data or any assumptions underlying the data. In addition, market share information calculated by the Company may be different from market share information calculated by other companies due to differences in category definitions, the use of data from different countries, internal estimates and other factors.
+
+40
+
+
+Cautionary Statement on Forward-Looking Statements
+
+This Annual Report on Form 10-K may contain forward-looking statements as that term is defined in the Private Securities Litigation Reform Act of 1995 or by the SEC in its rules, regulations and releases. Such statements may relate, for example, to sales or volume growth, organic sales growth, profit or profit margin growth, earnings growth, financial goals, the impact of currency devaluations and exchange controls, price or profit controls and labor unrest, including in Venezuela, cost-reduction plans including the 2012 Restructuring Program, tax rates, new product introductions, commercial investment levels or legal proceedings, among other matters. These statements are made on the basis of the Company’s views and assumptions as of this time and the Company undertakes no obligation to update these statements. Moreover, the Company does not, nor does any other person, assume responsibility for the accuracy and completeness of those statements. The Company cautions investors that any such forward-looking statements are not guarantees of future performance and that actual events or results may differ materially from those statements. Actual events or results may differ materially because of factors that affect international businesses and global economic conditions, as well as matters specific to the Company and the markets it serves, including the uncertain economic environment in different countries and its effect on consumer spending habits, increased competition and evolving competitive practices, currency rate fluctuations, exchange controls, price or profit controls, labor relations, changes in foreign or domestic laws or regulations or their interpretation, political and fiscal developments, the availability and cost of raw and packaging materials, the ability to maintain or increase selling prices as needed, the ability to implement the 2012 Restructuring Program as planned or differences between the actual and the estimated costs or savings under such program, changes in the policies of retail trade customers, the ability to continue lowering costs and the uncertainty of the outcome of legal proceedings, whether or not the Company believes they have merit. For information about these and other factors that could impact the Company’s business and cause actual results to differ materially from forward-looking statements, refer to Part I, Item 1A “Risk Factors.”
