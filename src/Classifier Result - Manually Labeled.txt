@@ -1,0 +1,64 @@
+Using Manually Labeled Documents (Total 40 Documents)
+
+#Model 1 - Baseline Model
+#Algorithm: Bernoulli Naive Bayes 
+#Features: Contains all words
+
+Accuracy =  0.6 
+Precision = 0.6 
+Recall =  1.0 
+F-Score =  0.75
+
+#Model 2 
+#Algorithm: Bernoulli Naive Bayes 
+#Features: Contains top 50 words
+
+Accuracy =  0.6 
+Precision = 0.6 
+Recall =  1.0 
+F-Score =  0.75
+
+#Model 3 
+#Algorithm: Multinomial Naive Bayes 
+#Features: CountVectorizer of all words
+
+Accuracy =  0.5 
+Precision = 0.571428571429 
+Recall =  0.666666666667 
+F-Score =  0.615384615385
+
+#Model 4 
+#Algorithm: Multinomial Naive Bayes
+#Features: CountVectorizer of only top 50 words and 2-grams
+
+Accuracy =  0.4 
+Precision = 0.5 
+Recall =  0.333333333333 
+F-Score =  0.4
+
+#Model 5
+#Algorithm: Multinomial Naive Bayes
+#Features: TfidfVectorizer of only top 50 words and 2-grams
+
+Accuracy =  0.5 
+Precision = 0.6 
+Recall =  0.5 
+F-Score =  0.545454545455
+
+#Model 6
+#Algorithm: Gaussian Naive Bayes
+#Features: TfidfVectorizer of only top 50 words and 2-grams,otal positive words, total negative words, polarity score 
+
+Accuracy =  0.6 
+Precision = 0.625 
+Recall =  0.833333333333 
+F-Score =  0.714285714286
+
+#Model 7 
+#Algorithm: Uncalibrated Random Forest
+#Features: TfidfVectorizer of only top 50 words and 2-grams, total positive words, total negative words, polarity score 
+
+Accuracy =  0.7 
+Precision = 0.666666666667 
+Recall =  1.0 
+F-Score =  0.8
